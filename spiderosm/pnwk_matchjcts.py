@@ -13,21 +13,28 @@ class PNwkMatchJcts(pnwk_score.PNwkScore):
     # match must be unique within both networks (for distance d)
     def jct_match_pass(self, otherNwk, d, filters):
         for jct in self.jcts.values():
-                
+            log.debug('junction %s', jct)
             #skip previously merged junctions
-            if jct.match: continue
+            if jct.match:
+                log.debug('previously merged junction')
+                continue
 
             # must be unique match in own network, within d 
             self_match_set = self.JctMatchSet(set_nwk=self, jct=jct, aread=d, filter_list=filters)
-            if len(self_match_set.set_jcts) !=1: continue
+            if len(self_match_set.set_jcts) !=1:
+                log.debug('not unique in own within d=%s', d)
+                continue
             assert self_match_set.set_jcts[0] == jct
 
             # must be unique match in other network, within d
             other_match_set = self.JctMatchSet(set_nwk=otherNwk, jct=jct, aread=d, filter_list=filters)
-            if len(other_match_set.set_jcts) != 1: continue
+            if len(other_match_set.set_jcts) != 1:
+                log.debug('not unique in other within d=%s', d)
+                continue
             other_jct = other_match_set.set_jcts[0]
 
             # match!
+            log.debug('Match!')
             jct.match = other_jct
             other_jct.match = jct
 
@@ -102,9 +109,13 @@ class PNwkMatchJcts(pnwk_score.PNwkScore):
         def jct_filter_max_d(self, setJct, parms):   
             (max_d,d) = parms
 
-            #print 'DEBUG jct_filter_max_d max_d=%d' % max_d
-            return (geo.distance(setJct.point,self.jct.point) <= max_d and
-                    len(self.set_nwk.get_jcts_near_point(self.jct.point, d)) == 1)
+            dist = geo.distance(setJct.point,self.jct.point)
+            jcts_near_point = self.set_nwk.get_jcts_near_point(self.jct.point, d)
+            
+            log.debug('DEBUG jct_filter_max_d (dist <= max_d) = (%s <= %s) (%s), d = %s, len(jcts_near_point)=%s',
+                      dist, max_d, dist <= max_d, d, len(jcts_near_point))
+            return (dist <= max_d and
+                    len(jcts_near_point) == 1)
 
 def test_setup_g():
     g = PNwkMatchJcts('g')    

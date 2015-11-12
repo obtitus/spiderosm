@@ -6,6 +6,8 @@ import pdb
 import geo 
 import pnwk_matchspokes
 
+import log
+
 class PNwkMatch(pnwk_matchspokes.PNwkMatchSpokes):
         
     # match into nwk2 
@@ -21,24 +23,28 @@ class PNwkMatch(pnwk_matchspokes.PNwkMatchSpokes):
         #TODO remove or restore max_d,d
 
         # Check network consistency
+        log.debug('Checking self. consistency %s', self)
         self.check()
+        log.debug('Checking nwk2 consistency %s', nwk2)
         nwk2.check()
 
         # Initial stats
-        statsBefore = nwk2.match_stats(quiet=True)
+        statsBefore = nwk2.match_stats()#quiet=True)
 
         # Identify corresponding junctions as launch points for spoke crawling.
         #
         # It's more important to be certain of matches, then to be comprehensive:
         # spoke crawling will fill in the gaps.
+        log.debug('Identify corresponding junctions as launch points for spoke crawling. with d = %s, max_d = %s', d, max_d)
         self.jct_match_pass(nwk2, d, [(self.JctMatchSet.jct_filter_max_d, (max_d,d))])
 
         # Crawl out from matched juctions along 'spokes'
         # NOTE INITIAL jct matches are one <-> one.  But not true in general.
+        log.debug('Crawl out from matched juctions along spokes')
         new_jct_matches = []
         for jct in nwk2.jcts.values():
             if jct.match: new_jct_matches.append((jct.match, jct))
-        #print 'DEBUG initial new_jct_matches:', new_jct_matches
+        log.debug('initial new_jct_matches %s', new_jct_matches)
         self.spoke_crawl(new_jct_matches, 
                 msg='crawling from initial matched junctions',
                 quiet=quiet)
@@ -66,12 +72,13 @@ class PNwkMatch(pnwk_matchspokes.PNwkMatchSpokes):
         statsAfter = nwk2.match_stats(quiet=True)
         num_segs_matched = statsAfter['num_segs_matched']
         delta = statsAfter['num_segs_matched'] - statsBefore['num_segs_matched']
-        #if not quiet: 
-        if False:
-            print '===== new segs matches: %d, total seg matches: %d' % (
-            delta, num_segs_matched)
+        #if not quiet:
+        log.debug('===== new segs matches: %d, total seg matches: %d', delta, num_segs_matched)
+        # if False:
+        #     print '===== new segs matches: %d, total seg matches: %d' % (
+        #     delta, num_segs_matched)
 
-        # Score matches
+        # Score matchesv
         self.score_matches()
         
         # share attributes of matched segs and jcts

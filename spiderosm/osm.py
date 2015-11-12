@@ -174,6 +174,21 @@ class OSMData(object):
             // referenced nodes 
             >; out body qt;
         """
+#         query="""
+# [out:json];
+# // fetch area 'Ski' to search in
+# area(3600406130)->.searchArea;
+# // gather results
+# (
+#   way["highway"]
+#   ["highway"!="path"]
+#   (area.searchArea);
+# );
+# // print results
+# out body;
+# >;
+# out skel qt;
+#         """
 
         (min_lon, min_lat, max_lon, max_lat) = geo_bbox
         query = template.format(
@@ -227,9 +242,11 @@ class OSMData(object):
 		#print 'del node:',node_id
 
     # initialize from OSM input file, if given, else via overpass API
-    def __init__(self, file_name=None, clip_rect=None, target_proj=None, srs=None):
+    def __init__(self, file_name=None, clip_rect=None, target_proj=None, srs=None,xml_format=False):
         # if no file_name given we need to know what area to get via overpass 
-        assert file_name or clip_rect
+        if not(file_name or clip_rect):
+            print 'not enough inputarguments given'
+            
         self.clip_rect = clip_rect
 
         self.srs = None
@@ -245,7 +262,7 @@ class OSMData(object):
         if target_proj: self.proj = geo.Projection(target_proj)
 
         if file_name:
-	    self._parse_input_file(file_name)
+	    self._parse_input_file(file_name, xml_format=xml_format)
         else:
             #self._import_and_parse_overpass_data_map_query()
             self._import_and_parse_overpass_data()
@@ -328,6 +345,8 @@ class OSMData(object):
                 if way.tags.has_key('old_name'): names.append(way.tags['old_name'])
                 if way.tags.has_key('official_name'): names.append(way.tags['official_name'])
                 if way.tags.has_key('ref'): names += way.tags['ref'].split(';')
+                # not sure what this does, but lets try
+                if way.tags.has_key('nvdb:id'): names += way.tags['nvdb:id'].split(';')                
 
 		points = []
                 num = len(way.node_ids)

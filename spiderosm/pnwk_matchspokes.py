@@ -5,6 +5,7 @@ import pdb
 
 import geo 
 import pnwk_matchjcts
+import log
 
 class PNwkMatchSpokes(pnwk_matchjcts.PNwkMatchJcts):
     class Jct(pnwk_matchjcts.PNwkMatchJcts.Jct):
@@ -14,10 +15,14 @@ class PNwkMatchSpokes(pnwk_matchjcts.PNwkMatchJcts):
                 spokes.append(Spoke(jct=self, seg=seg))
             return spokes
 
+        def __str__(self):
+            return self.__dict__.__str__()
+        
     # match nwk2 into nwk1
     # matches are searched for in radius d and must be unique within that radius in both networks
     def spoke_crawl(self, star_jct_match_list, msg=None, quiet=False):
         #if msg and not quiet: print 'SPOKECRAWL:',msg
+        log.debug('SPOKECRAWL: %s', msg)
         new_jct_matches = star_jct_match_list
         passNum = 0
         while len(new_jct_matches)>0:

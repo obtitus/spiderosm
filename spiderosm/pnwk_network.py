@@ -326,6 +326,9 @@ class PNwkNetwork(pnwk_namespace.PNwkNamespace):
                 d[ns + 'name'] = self.names_text()
             return d
 
+        def __repr__(self):
+            return self._asdict().__repr__()
+        
         def names_text(self):
             return ';'.join(list(self.names))
 
