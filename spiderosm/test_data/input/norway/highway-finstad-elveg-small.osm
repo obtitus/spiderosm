@@ -1,0 +1,4828 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='JOSM'>
+  <node id='-5507' visible='true' version='1' lat='59.720187' lon='10.8253826'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='-5495' visible='true' version='1' lat='59.7155784' lon='10.8107971'>
+    <tag k='barrier' v='block' />
+  </node>
+  <node id='-5493' visible='true' version='1' lat='59.7141949' lon='10.8083525'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='-5491' visible='true' version='1' lat='59.7176083' lon='10.8197155'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='-5485' visible='true' version='1' lat='59.7178612' lon='10.8264334'>
+    <tag k='barrier' v='gate' />
+  </node>
+  <node id='-5477' visible='true' version='1' lat='59.714498' lon='10.810206' />
+  <node id='-5353' visible='true' version='1' lat='59.7148065' lon='10.8137932' />
+  <node id='-5351' visible='true' version='1' lat='59.715126' lon='10.8140797' />
+  <node id='-5349' visible='true' version='1' lat='59.7157752' lon='10.8145568' />
+  <node id='-5347' visible='true' version='1' lat='59.715096' lon='10.8199712' />
+  <node id='-5345' visible='true' version='1' lat='59.7152291' lon='10.8189898' />
+  <node id='-5343' visible='true' version='1' lat='59.7152953' lon='10.8184794' />
+  <node id='-5341' visible='true' version='1' lat='59.7154254' lon='10.8174912' />
+  <node id='-5339' visible='true' version='1' lat='59.71553' lon='10.8166874' />
+  <node id='-5337' visible='true' version='1' lat='59.7155106' lon='10.8165074' />
+  <node id='-5335' visible='true' version='1' lat='59.7138459' lon='10.8203009' />
+  <node id='-5333' visible='true' version='1' lat='59.71452' lon='10.8203073' />
+  <node id='-5331' visible='true' version='1' lat='59.71502' lon='10.8203126' />
+  <node id='-5329' visible='true' version='1' lat='59.7129379' lon='10.8133062' />
+  <node id='-5327' visible='true' version='1' lat='59.7128312' lon='10.8134868' />
+  <node id='-5325' visible='true' version='1' lat='59.71276' lon='10.8159422' />
+  <node id='-5323' visible='true' version='1' lat='59.7128107' lon='10.8162877' />
+  <node id='-5321' visible='true' version='1' lat='59.7129094' lon='10.8164007' />
+  <node id='-5293' visible='true' version='1' lat='59.7145742' lon='10.8102322' />
+  <node id='-5291' visible='true' version='1' lat='59.7163189' lon='10.8145936' />
+  <node id='-5289' visible='true' version='1' lat='59.7163902' lon='10.8147381' />
+  <node id='-5287' visible='true' version='1' lat='59.7165432' lon='10.8129436' />
+  <node id='-5285' visible='true' version='1' lat='59.7164241' lon='10.8138152' />
+  <node id='-5283' visible='true' version='1' lat='59.7159667' lon='10.8146507' />
+  <node id='-5281' visible='true' version='1' lat='59.7164199' lon='10.8149174' />
+  <node id='-5279' visible='true' version='1' lat='59.7163711' lon='10.8148881' />
+  <node id='-5277' visible='true' version='1' lat='59.7172461' lon='10.8154954' />
+  <node id='-5275' visible='true' version='1' lat='59.7168415' lon='10.8151701' />
+  <node id='-5273' visible='true' version='1' lat='59.7182188' lon='10.8167491' />
+  <node id='-5271' visible='true' version='1' lat='59.7200429' lon='10.8178486' />
+  <node id='-5269' visible='true' version='1' lat='59.7151482' lon='10.8164223' />
+  <node id='-5267' visible='true' version='1' lat='59.7153109' lon='10.8164229' />
+  <node id='-5265' visible='true' version='1' lat='59.7154882' lon='10.8164648' />
+  <node id='-5263' visible='true' version='1' lat='59.7154974' lon='10.8164797' />
+  <node id='-5261' visible='true' version='1' lat='59.7150356' lon='10.8203256' />
+  <node id='-5259' visible='true' version='1' lat='59.7150283' lon='10.8203174' />
+  <node id='-5245' visible='true' version='1' lat='59.7179361' lon='10.8253758' />
+  <node id='-5233' visible='true' version='1' lat='59.7155905' lon='10.8162087' />
+  <node id='-5231' visible='true' version='1' lat='59.7157209' lon='10.8152298' />
+  <node id='-5229' visible='true' version='1' lat='59.7157895' lon='10.8146152' />
+  <node id='-5227' visible='true' version='1' lat='59.7157839' lon='10.8145892' />
+  <node id='-5197' visible='true' version='1' lat='59.7156355' lon='10.8154078' />
+  <node id='-5195' visible='true' version='1' lat='59.7156386' lon='10.8151063' />
+  <node id='-5193' visible='true' version='1' lat='59.7156376' lon='10.8146951' />
+  <node id='-5171' visible='true' version='1' lat='59.7175103' lon='10.826926' />
+  <node id='-5167' visible='true' version='1' lat='59.715398' lon='10.8147571' />
+  <node id='-5165' visible='true' version='1' lat='59.7152666' lon='10.8147596' />
+  <node id='-5163' visible='true' version='1' lat='59.715357' lon='10.8096908' />
+  <node id='-5161' visible='true' version='1' lat='59.7152755' lon='10.8096772' />
+  <node id='-5159' visible='true' version='1' lat='59.7130688' lon='10.8173817' />
+  <node id='-5151' visible='true' version='1' lat='59.7181229' lon='10.8260649' />
+  <node id='-5149' visible='true' version='1' lat='59.7180526' lon='10.8259758' />
+  <node id='-5147' visible='true' version='1' lat='59.718061' lon='10.8257586' />
+  <node id='-5145' visible='true' version='1' lat='59.71838' lon='10.824715' />
+  <node id='-5143' visible='true' version='1' lat='59.7183982' lon='10.8246677' />
+  <node id='-5141' visible='true' version='1' lat='59.718604' lon='10.8241799' />
+  <node id='-5139' visible='true' version='1' lat='59.7194379' lon='10.8228538' />
+  <node id='-5137' visible='true' version='1' lat='59.7196347' lon='10.8227137' />
+  <node id='-5135' visible='true' version='1' lat='59.7199349' lon='10.822689' />
+  <node id='-5133' visible='true' version='1' lat='59.7201554' lon='10.822769' />
+  <node id='-5085' visible='true' version='1' lat='59.7180233' lon='10.8254698' />
+  <node id='-5031' visible='true' version='1' lat='59.7201107' lon='10.815621' />
+  <node id='-5029' visible='true' version='1' lat='59.7200441' lon='10.8126893' />
+  <node id='-5027' visible='true' version='1' lat='59.7199927' lon='10.810457' />
+  <node id='-4913' visible='true' version='1' lat='59.7154163' lon='10.8197405' />
+  <node id='-4907' visible='true' version='1' lat='59.7141818' lon='10.8231876' />
+  <node id='-4905' visible='true' version='1' lat='59.7142232' lon='10.8229651' />
+  <node id='-4903' visible='true' version='1' lat='59.714402' lon='10.8226511' />
+  <node id='-4901' visible='true' version='1' lat='59.7144496' lon='10.8222698' />
+  <node id='-4843' visible='true' version='1' lat='59.7214443' lon='10.8126148' />
+  <node id='-4763' visible='true' version='1' lat='59.7162704' lon='10.8261299' />
+  <node id='-4761' visible='true' version='1' lat='59.7159694' lon='10.8257159' />
+  <node id='-4759' visible='true' version='1' lat='59.7157383' lon='10.8251834' />
+  <node id='-4757' visible='true' version='1' lat='59.7157686' lon='10.8247508' />
+  <node id='-4755' visible='true' version='1' lat='59.7159088' lon='10.8245528' />
+  <node id='-4753' visible='true' version='1' lat='59.716075' lon='10.8246027' />
+  <node id='-4751' visible='true' version='1' lat='59.7166563' lon='10.8256877' />
+  <node id='-4735' visible='true' version='1' lat='59.7156908' lon='10.8198536' />
+  <node id='-4733' visible='true' version='1' lat='59.7158463' lon='10.8198879' />
+  <node id='-4701' visible='true' version='1' lat='59.7207814' lon='10.8133479' />
+  <node id='-4699' visible='true' version='1' lat='59.7208631' lon='10.8130785' />
+  <node id='-4697' visible='true' version='1' lat='59.7209064' lon='10.8125997' />
+  <node id='-4693' visible='true' version='1' lat='59.7200001' lon='10.8160727' />
+  <node id='-4691' visible='true' version='1' lat='59.7197175' lon='10.8160735' />
+  <node id='-4689' visible='true' version='1' lat='59.7154145' lon='10.8119667' />
+  <node id='-4687' visible='true' version='1' lat='59.7151606' lon='10.8118236' />
+  <node id='-4685' visible='true' version='1' lat='59.7147574' lon='10.8109558' />
+  <node id='-4683' visible='true' version='1' lat='59.7150809' lon='10.8111351' />
+  <node id='-4681' visible='true' version='1' lat='59.715569' lon='10.8107919' />
+  <node id='-4679' visible='true' version='1' lat='59.7153236' lon='10.8124601' />
+  <node id='-4677' visible='true' version='1' lat='59.7150126' lon='10.8122646' />
+  <node id='-4675' visible='true' version='1' lat='59.7150379' lon='10.8119566' />
+  <node id='-4673' visible='true' version='1' lat='59.715489' lon='10.8113681' />
+  <node id='-4671' visible='true' version='1' lat='59.7152736' lon='10.8112468' />
+  <node id='-4669' visible='true' version='1' lat='59.7143039' lon='10.8094381' />
+  <node id='-4667' visible='true' version='1' lat='59.7136351' lon='10.8102247' />
+  <node id='-4665' visible='true' version='1' lat='59.7139762' lon='10.8099447' />
+  <node id='-4663' visible='true' version='1' lat='59.7129289' lon='10.8124738' />
+  <node id='-4661' visible='true' version='1' lat='59.7132993' lon='10.8124572' />
+  <node id='-4659' visible='true' version='1' lat='59.7136656' lon='10.8102077' />
+  <node id='-4657' visible='true' version='1' lat='59.7138971' lon='10.8113342' />
+  <node id='-4655' visible='true' version='1' lat='59.7139767' lon='10.8114266' />
+  <node id='-4653' visible='true' version='1' lat='59.7142047' lon='10.8114187' />
+  <node id='-4651' visible='true' version='1' lat='59.713273' lon='10.8133304' />
+  <node id='-4649' visible='true' version='1' lat='59.7135816' lon='10.8213569' />
+  <node id='-4647' visible='true' version='1' lat='59.7138116' lon='10.8221311' />
+  <node id='-4645' visible='true' version='1' lat='59.7133177' lon='10.8223476' />
+  <node id='-4643' visible='true' version='1' lat='59.7137606' lon='10.8223332' />
+  <node id='-4641' visible='true' version='1' lat='59.7138426' lon='10.8222303' />
+  <node id='-4639' visible='true' version='1' lat='59.7147042' lon='10.8100579' />
+  <node id='-4637' visible='true' version='1' lat='59.7144682' lon='10.8099604' />
+  <node id='-4635' visible='true' version='1' lat='59.7132318' lon='10.8156942' />
+  <node id='-4633' visible='true' version='1' lat='59.7133976' lon='10.8148934' />
+  <node id='-4631' visible='true' version='1' lat='59.7139353' lon='10.8149466' />
+  <node id='-4629' visible='true' version='1' lat='59.7139546' lon='10.8150287' />
+  <node id='-4627' visible='true' version='1' lat='59.713963' lon='10.8149583' />
+  <node id='-4625' visible='true' version='1' lat='59.7139846' lon='10.814097' />
+  <node id='-4623' visible='true' version='1' lat='59.7139867' lon='10.8135051' />
+  <node id='-4621' visible='true' version='1' lat='59.7139666' lon='10.8138762' />
+  <node id='-4619' visible='true' version='1' lat='59.7139849' lon='10.8138759' />
+  <node id='-4617' visible='true' version='1' lat='59.7138685' lon='10.814072' />
+  <node id='-4615' visible='true' version='1' lat='59.7138941' lon='10.8138949' />
+  <node id='-4613' visible='true' version='1' lat='59.713557' lon='10.8138717' />
+  <node id='-4611' visible='true' version='1' lat='59.7138245' lon='10.8138705' />
+  <node id='-4609' visible='true' version='1' lat='59.7138959' lon='10.8138751' />
+  <node id='-4607' visible='true' version='1' lat='59.7133962' lon='10.814064' />
+  <node id='-4605' visible='true' version='1' lat='59.7135398' lon='10.8140643' />
+  <node id='-4603' visible='true' version='1' lat='59.714297' lon='10.8146938' />
+  <node id='-4601' visible='true' version='1' lat='59.7142998' lon='10.8134451' />
+  <node id='-4599' visible='true' version='1' lat='59.7143061' lon='10.8133994' />
+  <node id='-4597' visible='true' version='1' lat='59.7143083' lon='10.8133839' />
+  <node id='-4595' visible='true' version='1' lat='59.7142987' lon='10.8145224' />
+  <node id='-4593' visible='true' version='1' lat='59.7147667' lon='10.8145238' />
+  <node id='-4591' visible='true' version='1' lat='59.7142974' lon='10.8142796' />
+  <node id='-4589' visible='true' version='1' lat='59.714859' lon='10.8142674' />
+  <node id='-4587' visible='true' version='1' lat='59.714881' lon='10.8148525' />
+  <node id='-4585' visible='true' version='1' lat='59.7148776' lon='10.8145256' />
+  <node id='-4583' visible='true' version='1' lat='59.7148764' lon='10.8142554' />
+  <node id='-4581' visible='true' version='1' lat='59.7148809' lon='10.8138853' />
+  <node id='-4579' visible='true' version='1' lat='59.7148848' lon='10.8138601' />
+  <node id='-4577' visible='true' version='1' lat='59.7136959' lon='10.8153733' />
+  <node id='-4575' visible='true' version='1' lat='59.7139231' lon='10.8153676' />
+  <node id='-4573' visible='true' version='1' lat='59.7139583' lon='10.8153686' />
+  <node id='-4571' visible='true' version='1' lat='59.7140104' lon='10.8153701' />
+  <node id='-4569' visible='true' version='1' lat='59.7142676' lon='10.8153596' />
+  <node id='-4567' visible='true' version='1' lat='59.7142995' lon='10.815348' />
+  <node id='-4565' visible='true' version='1' lat='59.7148489' lon='10.815346' />
+  <node id='-4563' visible='true' version='1' lat='59.7148797' lon='10.8153587' />
+  <node id='-4561' visible='true' version='1' lat='59.7149086' lon='10.8153811' />
+  <node id='-4559' visible='true' version='1' lat='59.7151541' lon='10.8153867' />
+  <node id='-4557' visible='true' version='1' lat='59.7151916' lon='10.8149764' />
+  <node id='-4555' visible='true' version='1' lat='59.7151929' lon='10.8147651' />
+  <node id='-4553' visible='true' version='1' lat='59.7151984' lon='10.8141849' />
+  <node id='-4551' visible='true' version='1' lat='59.7152077' lon='10.8141581' />
+  <node id='-4549' visible='true' version='1' lat='59.7142775' lon='10.8182843' />
+  <node id='-4547' visible='true' version='1' lat='59.7145079' lon='10.8183368' />
+  <node id='-4545' visible='true' version='1' lat='59.7148502' lon='10.8183482' />
+  <node id='-4543' visible='true' version='1' lat='59.7139373' lon='10.8174024' />
+  <node id='-4541' visible='true' version='1' lat='59.714281' lon='10.8174769' />
+  <node id='-4539' visible='true' version='1' lat='59.7145816' lon='10.8174767' />
+  <node id='-4537' visible='true' version='1' lat='59.7148674' lon='10.8175079' />
+  <node id='-4535' visible='true' version='1' lat='59.7138404' lon='10.8175691' />
+  <node id='-4533' visible='true' version='1' lat='59.7138429' lon='10.818221' />
+  <node id='-4531' visible='true' version='1' lat='59.7138442' lon='10.8184185' />
+  <node id='-4527' visible='true' version='1' lat='59.7130031' lon='10.8211549' />
+  <node id='-4525' visible='true' version='1' lat='59.7130032' lon='10.8204426' />
+  <node id='-4523' visible='true' version='1' lat='59.7130032' lon='10.8203298' />
+  <node id='-4521' visible='true' version='1' lat='59.713003' lon='10.8202885' />
+  <node id='-4519' visible='true' version='1' lat='59.7130099' lon='10.8202435' />
+  <node id='-4517' visible='true' version='1' lat='59.713845' lon='10.8182939' />
+  <node id='-4515' visible='true' version='1' lat='59.7131965' lon='10.8183382' />
+  <node id='-4513' visible='true' version='1' lat='59.7131801' lon='10.8190499' />
+  <node id='-4511' visible='true' version='1' lat='59.7131814' lon='10.8201632' />
+  <node id='-4509' visible='true' version='1' lat='59.7136575' lon='10.8200998' />
+  <node id='-4507' visible='true' version='1' lat='59.71318' lon='10.8191311' />
+  <node id='-4505' visible='true' version='1' lat='59.7135419' lon='10.8191334' />
+  <node id='-4503' visible='true' version='1' lat='59.7136533' lon='10.8191415' />
+  <node id='-4501' visible='true' version='1' lat='59.7138454' lon='10.8191337' />
+  <node id='-4499' visible='true' version='1' lat='59.7139542' lon='10.8191491' />
+  <node id='-4497' visible='true' version='1' lat='59.7140017' lon='10.8192669' />
+  <node id='-4495' visible='true' version='1' lat='59.7139931' lon='10.8201273' />
+  <node id='-4493' visible='true' version='1' lat='59.7143126' lon='10.8182968' />
+  <node id='-4491' visible='true' version='1' lat='59.7143088' lon='10.8183599' />
+  <node id='-4489' visible='true' version='1' lat='59.7143078' lon='10.8191183' />
+  <node id='-4487' visible='true' version='1' lat='59.7143033' lon='10.8200535' />
+  <node id='-4485' visible='true' version='1' lat='59.7140024' lon='10.8193029' />
+  <node id='-4483' visible='true' version='1' lat='59.7141407' lon='10.8193001' />
+  <node id='-4481' visible='true' version='1' lat='59.7143084' lon='10.8193037' />
+  <node id='-4479' visible='true' version='1' lat='59.7145789' lon='10.8193092' />
+  <node id='-4477' visible='true' version='1' lat='59.7143925' lon='10.8185223' />
+  <node id='-4475' visible='true' version='1' lat='59.7143092' lon='10.8185217' />
+  <node id='-4473' visible='true' version='1' lat='59.7150169' lon='10.8199974' />
+  <node id='-4471' visible='true' version='1' lat='59.714632' lon='10.8200243' />
+  <node id='-4469' visible='true' version='1' lat='59.7146238' lon='10.8183425' />
+  <node id='-4467' visible='true' version='1' lat='59.7146236' lon='10.8183651' />
+  <node id='-4465' visible='true' version='1' lat='59.7146217' lon='10.8185323' />
+  <node id='-4463' visible='true' version='1' lat='59.7146102' lon='10.8193144' />
+  <node id='-4461' visible='true' version='1' lat='59.7146084' lon='10.8193251' />
+  <node id='-4459' visible='true' version='1' lat='59.7145927' lon='10.8199813' />
+  <node id='-4457' visible='true' version='1' lat='59.7145941' lon='10.8200324' />
+  <node id='-4455' visible='true' version='1' lat='59.7146062' lon='10.8201957' />
+  <node id='-4453' visible='true' version='1' lat='59.7147902' lon='10.8222938' />
+  <node id='-4451' visible='true' version='1' lat='59.7148065' lon='10.8222877' />
+  <node id='-4449' visible='true' version='1' lat='59.7148789' lon='10.8221484' />
+  <node id='-4447' visible='true' version='1' lat='59.7150645' lon='10.8207257' />
+  <node id='-4445' visible='true' version='1' lat='59.7152564' lon='10.8187705' />
+  <node id='-4443' visible='true' version='1' lat='59.7151366' lon='10.817374' />
+  <node id='-4441' visible='true' version='1' lat='59.7154289' lon='10.8173823' />
+  <node id='-4439' visible='true' version='1' lat='59.7154405' lon='10.8173825' />
+  <node id='-4437' visible='true' version='1' lat='59.7154495' lon='10.8173824' />
+  <node id='-4435' visible='true' version='1' lat='59.715325' lon='10.8182632' />
+  <node id='-4433' visible='true' version='1' lat='59.7152814' lon='10.8182185' />
+  <node id='-4431' visible='true' version='1' lat='59.7152782' lon='10.8177582' />
+  <node id='-4429' visible='true' version='1' lat='59.71528' lon='10.8173762' />
+  <node id='-4427' visible='true' version='1' lat='59.7129318' lon='10.8164009' />
+  <node id='-4425' visible='true' version='1' lat='59.7131466' lon='10.8163717' />
+  <node id='-4423' visible='true' version='1' lat='59.7132495' lon='10.8140225' />
+  <node id='-4421' visible='true' version='1' lat='59.7131881' lon='10.8141626' />
+  <node id='-4419' visible='true' version='1' lat='59.7131867' lon='10.81483' />
+  <node id='-4417' visible='true' version='1' lat='59.7131858' lon='10.8148933' />
+  <node id='-4415' visible='true' version='1' lat='59.7131857' lon='10.8154296' />
+  <node id='-4413' visible='true' version='1' lat='59.7131885' lon='10.8156943' />
+  <node id='-4411' visible='true' version='1' lat='59.7131845' lon='10.8163291' />
+  <node id='-4409' visible='true' version='1' lat='59.7132374' lon='10.8172912' />
+  <node id='-4407' visible='true' version='1' lat='59.713236' lon='10.8173799' />
+  <node id='-4405' visible='true' version='1' lat='59.7138507' lon='10.817405' />
+  <node id='-4403' visible='true' version='1' lat='59.713875' lon='10.8174299' />
+  <node id='-4401' visible='true' version='1' lat='59.7131841' lon='10.8163694' />
+  <node id='-4399' visible='true' version='1' lat='59.713245' lon='10.8164952' />
+  <node id='-4397' visible='true' version='1' lat='59.7132454' lon='10.816558' />
+  <node id='-4395' visible='true' version='1' lat='59.7136313' lon='10.8165562' />
+  <node id='-4393' visible='true' version='1' lat='59.7136509' lon='10.816408' />
+  <node id='-4391' visible='true' version='1' lat='59.7135053' lon='10.8148991' />
+  <node id='-4389' visible='true' version='1' lat='59.7135' lon='10.8152682' />
+  <node id='-4387' visible='true' version='1' lat='59.7135018' lon='10.8153842' />
+  <node id='-4385' visible='true' version='1' lat='59.7134986' lon='10.8156373' />
+  <node id='-4383' visible='true' version='1' lat='59.7134985' lon='10.8156955' />
+  <node id='-4381' visible='true' version='1' lat='59.7134983' lon='10.8163322' />
+  <node id='-4379' visible='true' version='1' lat='59.7137728' lon='10.8153717' />
+  <node id='-4377' visible='true' version='1' lat='59.7137695' lon='10.8163291' />
+  <node id='-4375' visible='true' version='1' lat='59.7139926' lon='10.8174051' />
+  <node id='-4373' visible='true' version='1' lat='59.7140104' lon='10.8164152' />
+  <node id='-4371' visible='true' version='1' lat='59.7140874' lon='10.8153718' />
+  <node id='-4369' visible='true' version='1' lat='59.7140853' lon='10.8163321' />
+  <node id='-4367' visible='true' version='1' lat='59.7143401' lon='10.8153384' />
+  <node id='-4365' visible='true' version='1' lat='59.7143354' lon='10.8163261' />
+  <node id='-4363' visible='true' version='1' lat='59.714347' lon='10.8174736' />
+  <node id='-4361' visible='true' version='1' lat='59.7143465' lon='10.8164876' />
+  <node id='-4359' visible='true' version='1' lat='59.7146458' lon='10.8174756' />
+  <node id='-4357' visible='true' version='1' lat='59.7146469' lon='10.8164173' />
+  <node id='-4355' visible='true' version='1' lat='59.7149329' lon='10.8193307' />
+  <node id='-4353' visible='true' version='1' lat='59.7149354' lon='10.8187647' />
+  <node id='-4351' visible='true' version='1' lat='59.7149313' lon='10.8183485' />
+  <node id='-4349' visible='true' version='1' lat='59.7149323' lon='10.8178431' />
+  <node id='-4347' visible='true' version='1' lat='59.7149288' lon='10.8175075' />
+  <node id='-4345' visible='true' version='1' lat='59.7149323' lon='10.8173835' />
+  <node id='-4343' visible='true' version='1' lat='59.7149268' lon='10.8166965' />
+  <node id='-4341' visible='true' version='1' lat='59.7149257' lon='10.8154847' />
+  <node id='-4339' visible='true' version='1' lat='59.7149234' lon='10.8153887' />
+  <node id='-4337' visible='true' version='1' lat='59.7151927' lon='10.8153842' />
+  <node id='-4335' visible='true' version='1' lat='59.7152525' lon='10.8154253' />
+  <node id='-4333' visible='true' version='1' lat='59.7152526' lon='10.8163353' />
+  <node id='-4331' visible='true' version='1' lat='59.7153969' lon='10.8173812' />
+  <node id='-4329' visible='true' version='1' lat='59.7153978' lon='10.8164582' />
+  <node id='-4327' visible='true' version='1' lat='59.7153968' lon='10.8164248' />
+  <node id='-4325' visible='true' version='1' lat='59.7156473' lon='10.8150657' />
+  <node id='-4323' visible='true' version='1' lat='59.7157274' lon='10.8150715' />
+  <node id='-4321' visible='true' version='1' lat='59.7157413' lon='10.8150756' />
+  <node id='-4319' visible='true' version='1' lat='59.713849' lon='10.8221869' />
+  <node id='-4317' visible='true' version='1' lat='59.7139651' lon='10.8220925' />
+  <node id='-4315' visible='true' version='1' lat='59.7140154' lon='10.8218625' />
+  <node id='-3939' visible='true' version='1' lat='59.7140092' lon='10.8217235' />
+  <node id='-3937' visible='true' version='1' lat='59.7139263' lon='10.8215136' />
+  <node id='-3935' visible='true' version='1' lat='59.713935' lon='10.8203734' />
+  <node id='-3933' visible='true' version='1' lat='59.7139349' lon='10.8203038' />
+  <node id='-3875' visible='true' version='1' lat='59.7201794' lon='10.8157421' />
+  <node id='-3873' visible='true' version='1' lat='59.7201068' lon='10.8157502' />
+  <node id='-3861' visible='true' version='1' lat='59.7198918' lon='10.8176626' />
+  <node id='-3637' visible='true' version='1' lat='59.7201729' lon='10.8159032' />
+  <node id='-3625' visible='true' version='1' lat='59.7200756' lon='10.8175009' />
+  <node id='-3165' visible='true' version='1' lat='59.720323' lon='10.8271885' />
+  <node id='-3163' visible='true' version='1' lat='59.720297' lon='10.8261468' />
+  <node id='-3161' visible='true' version='1' lat='59.7202713' lon='10.8250855' />
+  <node id='-3159' visible='true' version='1' lat='59.7202603' lon='10.8244567' />
+  <node id='-3157' visible='true' version='1' lat='59.7202508' lon='10.8239897' />
+  <node id='-3155' visible='true' version='1' lat='59.7202262' lon='10.8229923' />
+  <node id='-3153' visible='true' version='1' lat='59.7202129' lon='10.8224047' />
+  <node id='-3151' visible='true' version='1' lat='59.7201899' lon='10.821457' />
+  <node id='-3149' visible='true' version='1' lat='59.7201711' lon='10.8205853' />
+  <node id='-3147' visible='true' version='1' lat='59.7201508' lon='10.8197511' />
+  <node id='-3145' visible='true' version='1' lat='59.7201306' lon='10.8184399' />
+  <node id='-3143' visible='true' version='1' lat='59.7201167' lon='10.8177949' />
+  <node id='-3141' visible='true' version='1' lat='59.7201118' lon='10.8177106' />
+  <node id='-3139' visible='true' version='1' lat='59.7201085' lon='10.8176611' />
+  <node id='-3137' visible='true' version='1' lat='59.7201053' lon='10.8175921' />
+  <node id='-3135' visible='true' version='1' lat='59.7201014' lon='10.817484' />
+  <node id='-3133' visible='true' version='1' lat='59.7200863' lon='10.81674' />
+  <node id='-3131' visible='true' version='1' lat='59.7200711' lon='10.8159551' />
+  <node id='-3129' visible='true' version='1' lat='59.7200667' lon='10.8159022' />
+  <node id='-3127' visible='true' version='1' lat='59.7200614' lon='10.8158495' />
+  <node id='-3125' visible='true' version='1' lat='59.7200609' lon='10.8158033' />
+  <node id='-3123' visible='true' version='1' lat='59.7200611' lon='10.8157552' />
+  <node id='-3121' visible='true' version='1' lat='59.7199297' lon='10.810456' />
+  <node id='-2869' visible='true' version='1' lat='59.7141822' lon='10.8082514' />
+  <node id='-2867' visible='true' version='1' lat='59.7143077' lon='10.8091995' />
+  <node id='-2865' visible='true' version='1' lat='59.7143436' lon='10.8094078' />
+  <node id='-2863' visible='true' version='1' lat='59.7144231' lon='10.8098277' />
+  <node id='-2861' visible='true' version='1' lat='59.7144575' lon='10.8099866' />
+  <node id='-2859' visible='true' version='1' lat='59.7144805' lon='10.8101083' />
+  <node id='-2857' visible='true' version='1' lat='59.7206038' lon='10.82587' />
+  <node id='-2855' visible='true' version='1' lat='59.7206207' lon='10.8268256' />
+  <node id='-2847' visible='true' version='1' lat='59.7207685' lon='10.8192912' />
+  <node id='-2845' visible='true' version='1' lat='59.7207759' lon='10.8200716' />
+  <node id='-2843' visible='true' version='1' lat='59.7204583' lon='10.8187302' />
+  <node id='-2841' visible='true' version='1' lat='59.7204693' lon='10.8192689' />
+  <node id='-2839' visible='true' version='1' lat='59.7205622' lon='10.8196758' />
+  <node id='-2837' visible='true' version='1' lat='59.7205682' lon='10.8201509' />
+  <node id='-2805' visible='true' version='1' lat='59.7191311' lon='10.8113226' />
+  <node id='-2803' visible='true' version='1' lat='59.718935' lon='10.8109792' />
+  <node id='-2801' visible='true' version='1' lat='59.7186438' lon='10.8114336' />
+  <node id='-2799' visible='true' version='1' lat='59.7190982' lon='10.8144341' />
+  <node id='-2797' visible='true' version='1' lat='59.7190069' lon='10.8140987' />
+  <node id='-2795' visible='true' version='1' lat='59.7189945' lon='10.8135922' />
+  <node id='-2793' visible='true' version='1' lat='59.7187328' lon='10.815859' />
+  <node id='-2791' visible='true' version='1' lat='59.7186235' lon='10.8168855' />
+  <node id='-2789' visible='true' version='1' lat='59.7178213' lon='10.8172457' />
+  <node id='-2787' visible='true' version='1' lat='59.7175351' lon='10.8173242' />
+  <node id='-2785' visible='true' version='1' lat='59.7168093' lon='10.8142895' />
+  <node id='-2783' visible='true' version='1' lat='59.716419' lon='10.8140788' />
+  <node id='-2781' visible='true' version='1' lat='59.7163909' lon='10.8140599' />
+  <node id='-2779' visible='true' version='1' lat='59.7161923' lon='10.8161575' />
+  <node id='-2777' visible='true' version='1' lat='59.7165652' lon='10.8164014' />
+  <node id='-2775' visible='true' version='1' lat='59.7159901' lon='10.8168609' />
+  <node id='-2773' visible='true' version='1' lat='59.7159738' lon='10.8173793' />
+  <node id='-2771' visible='true' version='1' lat='59.7164055' lon='10.8175683' />
+  <node id='-2769' visible='true' version='1' lat='59.7172387' lon='10.8214201' />
+  <node id='-2767' visible='true' version='1' lat='59.7172728' lon='10.821869' />
+  <node id='-2765' visible='true' version='1' lat='59.7168361' lon='10.818129' />
+  <node id='-2763' visible='true' version='1' lat='59.7169354' lon='10.8192113' />
+  <node id='-2761' visible='true' version='1' lat='59.7146447' lon='10.8114232' />
+  <node id='-2753' visible='true' version='1' lat='59.717615' lon='10.8257735' />
+  <node id='-2751' visible='true' version='1' lat='59.7175241' lon='10.8253391' />
+  <node id='-2749' visible='true' version='1' lat='59.7177885' lon='10.824964' />
+  <node id='-2745' visible='true' version='1' lat='59.7176335' lon='10.8272677' />
+  <node id='-2739' visible='true' version='1' lat='59.7195968' lon='10.820863' />
+  <node id='-2737' visible='true' version='1' lat='59.7200909' lon='10.8207607' />
+  <node id='-2735' visible='true' version='1' lat='59.7201746' lon='10.8207388' />
+  <node id='-2533' visible='true' version='1' lat='59.7168633' lon='10.8204205' />
+  <node id='-2531' visible='true' version='1' lat='59.7168282' lon='10.8199728' />
+  <node id='-2499' visible='true' version='1' lat='59.7168825' lon='10.8210831' />
+  <node id='-2497' visible='true' version='1' lat='59.7169874' lon='10.8220773' />
+  <node id='-2477' visible='true' version='1' lat='59.7172082' lon='10.8267372' />
+  <node id='-2475' visible='true' version='1' lat='59.7166649' lon='10.8257075' />
+  <node id='-2473' visible='true' version='1' lat='59.7167819' lon='10.8260978' />
+  <node id='-2471' visible='true' version='1' lat='59.7165229' lon='10.8261905' />
+  <node id='-2469' visible='true' version='1' lat='59.7167549' lon='10.8261886' />
+  <node id='-2467' visible='true' version='1' lat='59.7167862' lon='10.8261695' />
+  <node id='-2455' visible='true' version='1' lat='59.7189017' lon='10.8212927' />
+  <node id='-2453' visible='true' version='1' lat='59.7191898' lon='10.8212771' />
+  <node id='-2451' visible='true' version='1' lat='59.7158434' lon='10.8186708' />
+  <node id='-2449' visible='true' version='1' lat='59.7162886' lon='10.8188667' />
+  <node id='-2447' visible='true' version='1' lat='59.7149186' lon='10.8127887' />
+  <node id='-2445' visible='true' version='1' lat='59.7148315' lon='10.813241' />
+  <node id='-2443' visible='true' version='1' lat='59.712885' lon='10.808707' />
+  <node id='-2441' visible='true' version='1' lat='59.7133095' lon='10.8088187' />
+  <node id='-2431' visible='true' version='1' lat='59.7200082' lon='10.8254877' />
+  <node id='-2429' visible='true' version='1' lat='59.7202794' lon='10.8253737' />
+  <node id='-2427' visible='true' version='1' lat='59.7201962' lon='10.8253793' />
+  <node id='-2425' visible='true' version='1' lat='59.7211061' lon='10.8133109' />
+  <node id='-2423' visible='true' version='1' lat='59.7213883' lon='10.8132894' />
+  <node id='-2421' visible='true' version='1' lat='59.7214652' lon='10.8133118' />
+  <node id='-2419' visible='true' version='1' lat='59.7215004' lon='10.8139003' />
+  <node id='-2377' visible='true' version='1' lat='59.720387' lon='10.8117108' />
+  <node id='-2375' visible='true' version='1' lat='59.7204088' lon='10.8125625' />
+  <node id='-2373' visible='true' version='1' lat='59.721448' lon='10.8115708' />
+  <node id='-2371' visible='true' version='1' lat='59.7209404' lon='10.8116415' />
+  <node id='-2369' visible='true' version='1' lat='59.7203193' lon='10.8110855' />
+  <node id='-2367' visible='true' version='1' lat='59.7203889' lon='10.8106442' />
+  <node id='-2365' visible='true' version='1' lat='59.7173307' lon='10.8230332' />
+  <node id='-2363' visible='true' version='1' lat='59.7175831' lon='10.8229403' />
+  <node id='-2313' visible='true' version='1' lat='59.7203721' lon='10.8141177' />
+  <node id='-2311' visible='true' version='1' lat='59.7203736' lon='10.8135727' />
+  <node id='-2309' visible='true' version='1' lat='59.720386' lon='10.813522' />
+  <node id='-2307' visible='true' version='1' lat='59.7204057' lon='10.8133373' />
+  <node id='-2305' visible='true' version='1' lat='59.7205305' lon='10.8131365' />
+  <node id='-2303' visible='true' version='1' lat='59.7206719' lon='10.8126649' />
+  <node id='-2301' visible='true' version='1' lat='59.7179166' lon='10.8129984' />
+  <node id='-2299' visible='true' version='1' lat='59.7183093' lon='10.8129003' />
+  <node id='-2297' visible='true' version='1' lat='59.7171822' lon='10.8151816' />
+  <node id='-2295' visible='true' version='1' lat='59.717772' lon='10.8138319' />
+  <node id='-2293' visible='true' version='1' lat='59.7175472' lon='10.8142411' />
+  <node id='-2291' visible='true' version='1' lat='59.7161755' lon='10.8120061' />
+  <node id='-2289' visible='true' version='1' lat='59.7162746' lon='10.8111836' />
+  <node id='-2287' visible='true' version='1' lat='59.7163248' lon='10.8213035' />
+  <node id='-2285' visible='true' version='1' lat='59.7163439' lon='10.8202757' />
+  <node id='-2283' visible='true' version='1' lat='59.7159594' lon='10.8199313' />
+  <node id='-2281' visible='true' version='1' lat='59.7162983' lon='10.8200723' />
+  <node id='-2161' visible='true' version='1' lat='59.7199133' lon='10.8190705' />
+  <node id='-2159' visible='true' version='1' lat='59.7195099' lon='10.8187685' />
+  <node id='-2157' visible='true' version='1' lat='59.7197712' lon='10.8187305' />
+  <node id='-2155' visible='true' version='1' lat='59.719876' lon='10.818801' />
+  <node id='-2153' visible='true' version='1' lat='59.7197594' lon='10.817369' />
+  <node id='-2151' visible='true' version='1' lat='59.7194814' lon='10.8169388' />
+  <node id='-2149' visible='true' version='1' lat='59.7197628' lon='10.8169864' />
+  <node id='-2147' visible='true' version='1' lat='59.7199955' lon='10.8182912' />
+  <node id='-2145' visible='true' version='1' lat='59.719915' lon='10.8187837' />
+  <node id='-2143' visible='true' version='1' lat='59.7198999' lon='10.8188479' />
+  <node id='-2141' visible='true' version='1' lat='59.7198755' lon='10.8168671' />
+  <node id='-2139' visible='true' version='1' lat='59.7198231' lon='10.8169917' />
+  <node id='-2137' visible='true' version='1' lat='59.71978' lon='10.8170389' />
+  <node id='-1983' visible='true' version='1' lat='59.7152569' lon='10.8203528' />
+  <node id='-1981' visible='true' version='1' lat='59.7153168' lon='10.8197266' />
+  <node id='-1979' visible='true' version='1' lat='59.7153047' lon='10.8197018' />
+  <node id='-1977' visible='true' version='1' lat='59.7152171' lon='10.8196627' />
+  <node id='-1895' visible='true' version='1' lat='59.7172156' lon='10.8155664' />
+  <node id='-1893' visible='true' version='1' lat='59.7171462' lon='10.8157869' />
+  <node id='-1891' visible='true' version='1' lat='59.7171627' lon='10.8160767' />
+  <node id='-1889' visible='true' version='1' lat='59.7172398' lon='10.8164373' />
+  <node id='-1887' visible='true' version='1' lat='59.7173851' lon='10.8167627' />
+  <node id='-1885' visible='true' version='1' lat='59.7202543' lon='10.8242402' />
+  <node id='-1883' visible='true' version='1' lat='59.7201094' lon='10.8240376' />
+  <node id='-1881' visible='true' version='1' lat='59.7200974' lon='10.8233502' />
+  <node id='-1879' visible='true' version='1' lat='59.7200161' lon='10.8227462' />
+  <node id='-1877' visible='true' version='1' lat='59.7200203' lon='10.8226972' />
+  <node id='-1857' visible='true' version='1' lat='59.7199487' lon='10.826954' />
+  <node id='-1855' visible='true' version='1' lat='59.720057' lon='10.8268835' />
+  <node id='-1853' visible='true' version='1' lat='59.7200963' lon='10.8269017' />
+  <node id='-1851' visible='true' version='1' lat='59.7202302' lon='10.8269847' />
+  <node id='-1767' visible='true' version='1' lat='59.7150669' lon='10.811765' />
+  <node id='-1765' visible='true' version='1' lat='59.7151301' lon='10.8113258' />
+  <node id='-1763' visible='true' version='1' lat='59.71516' lon='10.811177' />
+  <node id='-1761' visible='true' version='1' lat='59.7152184' lon='10.8107534' />
+  <node id='-1759' visible='true' version='1' lat='59.7165501' lon='10.8220201' />
+  <node id='-1757' visible='true' version='1' lat='59.7165891' lon='10.8222538' />
+  <node id='-1755' visible='true' version='1' lat='59.7169087' lon='10.8221551' />
+  <node id='-1753' visible='true' version='1' lat='59.7170008' lon='10.8220981' />
+  <node id='-1751' visible='true' version='1' lat='59.7172057' lon='10.8220417' />
+  <node id='-1749' visible='true' version='1' lat='59.7172887' lon='10.8220064' />
+  <node id='-1747' visible='true' version='1' lat='59.7175978' lon='10.82189' />
+  <node id='-1741' visible='true' version='1' lat='59.7180344' lon='10.8108176' />
+  <node id='-1739' visible='true' version='1' lat='59.7183757' lon='10.8108911' />
+  <node id='-1737' visible='true' version='1' lat='59.718601' lon='10.8114251' />
+  <node id='-1735' visible='true' version='1' lat='59.7186208' lon='10.8114774' />
+  <node id='-1733' visible='true' version='1' lat='59.7192228' lon='10.8130467' />
+  <node id='-1705' visible='true' version='1' lat='59.7215022' lon='10.8200246' />
+  <node id='-1687' visible='true' version='1' lat='59.7184781' lon='10.8205493' />
+  <node id='-1685' visible='true' version='1' lat='59.7185732' lon='10.8238616' />
+  <node id='-1683' visible='true' version='1' lat='59.7146063' lon='10.8099986' />
+  <node id='-1681' visible='true' version='1' lat='59.7146893' lon='10.8095128' />
+  <node id='-1679' visible='true' version='1' lat='59.7143291' lon='10.8093089' />
+  <node id='-1677' visible='true' version='1' lat='59.7144403' lon='10.8092081' />
+  <node id='-1675' visible='true' version='1' lat='59.7146759' lon='10.809337' />
+  <node id='-1673' visible='true' version='1' lat='59.7147178' lon='10.8093628' />
+  <node id='-1671' visible='true' version='1' lat='59.7151295' lon='10.8096091' />
+  <node id='-1669' visible='true' version='1' lat='59.7151869' lon='10.809645' />
+  <node id='-1667' visible='true' version='1' lat='59.7151625' lon='10.8097851' />
+  <node id='-1665' visible='true' version='1' lat='59.7151347' lon='10.8099308' />
+  <node id='-1663' visible='true' version='1' lat='59.7150888' lon='10.8102312' />
+  <node id='-1661' visible='true' version='1' lat='59.7150811' lon='10.8102766' />
+  <node id='-1659' visible='true' version='1' lat='59.7181467' lon='10.8183995' />
+  <node id='-1657' visible='true' version='1' lat='59.7184261' lon='10.8184197' />
+  <node id='-1655' visible='true' version='1' lat='59.7184296' lon='10.8191509' />
+  <node id='-1639' visible='true' version='1' lat='59.7182416' lon='10.8126344' />
+  <node id='-1637' visible='true' version='1' lat='59.7183247' lon='10.8128709' />
+  <node id='-1635' visible='true' version='1' lat='59.7183326' lon='10.8128979' />
+  <node id='-1633' visible='true' version='1' lat='59.7186901' lon='10.8139495' />
+  <node id='-1631' visible='true' version='1' lat='59.7194758' lon='10.8235616' />
+  <node id='-1629' visible='true' version='1' lat='59.7197526' lon='10.8241945' />
+  <node id='-1627' visible='true' version='1' lat='59.7193224' lon='10.8199214' />
+  <node id='-1625' visible='true' version='1' lat='59.7192538' lon='10.8212355' />
+  <node id='-1623' visible='true' version='1' lat='59.7192611' lon='10.8212809' />
+  <node id='-1621' visible='true' version='1' lat='59.7193124' lon='10.8217323' />
+  <node id='-1619' visible='true' version='1' lat='59.7192716' lon='10.8228391' />
+  <node id='-1617' visible='true' version='1' lat='59.7191628' lon='10.8153178' />
+  <node id='-1615' visible='true' version='1' lat='59.7193224' lon='10.8153571' />
+  <node id='-1613' visible='true' version='1' lat='59.7193217' lon='10.8159945' />
+  <node id='-1611' visible='true' version='1' lat='59.7196509' lon='10.8145449' />
+  <node id='-1609' visible='true' version='1' lat='59.7196678' lon='10.816031' />
+  <node id='-1585' visible='true' version='1' lat='59.721418' lon='10.824637' />
+  <node id='-1583' visible='true' version='1' lat='59.7209779' lon='10.824499' />
+  <node id='-1581' visible='true' version='1' lat='59.7203359' lon='10.8246568' />
+  <node id='-1579' visible='true' version='1' lat='59.7202628' lon='10.8246922' />
+  <node id='-1569' visible='true' version='1' lat='59.7167062' lon='10.8225129' />
+  <node id='-1567' visible='true' version='1' lat='59.7168364' lon='10.8233982' />
+  <node id='-1565' visible='true' version='1' lat='59.717169' lon='10.8240817' />
+  <node id='-1563' visible='true' version='1' lat='59.7172406' lon='10.8241016' />
+  <node id='-1561' visible='true' version='1' lat='59.7175588' lon='10.8237913' />
+  <node id='-1519' visible='true' version='1' lat='59.7210096' lon='10.8233854' />
+  <node id='-1517' visible='true' version='1' lat='59.7203115' lon='10.8233893' />
+  <node id='-1515' visible='true' version='1' lat='59.7202823' lon='10.8233908' />
+  <node id='-1513' visible='true' version='1' lat='59.720232' lon='10.8233948' />
+  <node id='-1477' visible='true' version='1' lat='59.7157736' lon='10.8126176' />
+  <node id='-1475' visible='true' version='1' lat='59.7154975' lon='10.8141058' />
+  <node id='-1449' visible='true' version='1' lat='59.7203026' lon='10.8105037' />
+  <node id='-1447' visible='true' version='1' lat='59.7203636' lon='10.8105583' />
+  <node id='-1445' visible='true' version='1' lat='59.7204238' lon='10.8106113' />
+  <node id='-1443' visible='true' version='1' lat='59.7207706' lon='10.8108011' />
+  <node id='-1441' visible='true' version='1' lat='59.7208075' lon='10.8116172' />
+  <node id='-1439' visible='true' version='1' lat='59.7208123' lon='10.8116557' />
+  <node id='-1437' visible='true' version='1' lat='59.7208186' lon='10.8124988' />
+  <node id='-1435' visible='true' version='1' lat='59.7214431' lon='10.8162606' />
+  <node id='-1329' visible='true' version='1' lat='59.7180707' lon='10.8255771' />
+  <node id='-1327' visible='true' version='1' lat='59.718353' lon='10.8246646' />
+  <node id='-1325' visible='true' version='1' lat='59.7185664' lon='10.8241503' />
+  <node id='-1323' visible='true' version='1' lat='59.718623' lon='10.8240538' />
+  <node id='-1321' visible='true' version='1' lat='59.7192316' lon='10.8230807' />
+  <node id='-1319' visible='true' version='1' lat='59.7192945' lon='10.8229641' />
+  <node id='-1317' visible='true' version='1' lat='59.7195765' lon='10.8226716' />
+  <node id='-1315' visible='true' version='1' lat='59.7199517' lon='10.8226232' />
+  <node id='-1313' visible='true' version='1' lat='59.7200168' lon='10.8226268' />
+  <node id='-1311' visible='true' version='1' lat='59.720215' lon='10.8226003' />
+  <node id='-1139' visible='true' version='1' lat='59.7208632' lon='10.8202063' />
+  <node id='-1137' visible='true' version='1' lat='59.7207778' lon='10.8202294' />
+  <node id='-1135' visible='true' version='1' lat='59.7205884' lon='10.8202846' />
+  <node id='-1133' visible='true' version='1' lat='59.7205564' lon='10.8202945' />
+  <node id='-1131' visible='true' version='1' lat='59.7202358' lon='10.8203874' />
+  <node id='-1129' visible='true' version='1' lat='59.7202194' lon='10.8203886' />
+  <node id='-1127' visible='true' version='1' lat='59.7201684' lon='10.8204021' />
+  <node id='-1125' visible='true' version='1' lat='59.7156058' lon='10.810812' />
+  <node id='-1123' visible='true' version='1' lat='59.7159437' lon='10.8109918' />
+  <node id='-1121' visible='true' version='1' lat='59.7162434' lon='10.8110394' />
+  <node id='-1119' visible='true' version='1' lat='59.7162884' lon='10.811029' />
+  <node id='-1117' visible='true' version='1' lat='59.7165327' lon='10.8108722' />
+  <node id='-1115' visible='true' version='1' lat='59.7166473' lon='10.8109692' />
+  <node id='-1113' visible='true' version='1' lat='59.7146425' lon='10.8102559' />
+  <node id='-1111' visible='true' version='1' lat='59.7149499' lon='10.8104251' />
+  <node id='-1109' visible='true' version='1' lat='59.7150486' lon='10.8104829' />
+  <node id='-1107' visible='true' version='1' lat='59.7151641' lon='10.8105496' />
+  <node id='-1105' visible='true' version='1' lat='59.7152411' lon='10.8105944' />
+  <node id='-1103' visible='true' version='1' lat='59.7154592' lon='10.8107229' />
+  <node id='-1101' visible='true' version='1' lat='59.7155076' lon='10.8107508' />
+  <node id='-1045' visible='true' version='1' lat='59.7186848' lon='10.8239655' />
+  <node id='-1043' visible='true' version='1' lat='59.7187071' lon='10.8240222' />
+  <node id='-1041' visible='true' version='1' lat='59.7195322' lon='10.8259857' />
+  <node id='-1039' visible='true' version='1' lat='59.7196686' lon='10.8259783' />
+  <node id='-1037' visible='true' version='1' lat='59.7199775' lon='10.8255287' />
+  <node id='-1009' visible='true' version='1' lat='59.7167781' lon='10.8198324' />
+  <node id='-1007' visible='true' version='1' lat='59.7168195' lon='10.8198053' />
+  <node id='-1005' visible='true' version='1' lat='59.7169637' lon='10.8197211' />
+  <node id='-1003' visible='true' version='1' lat='59.717009' lon='10.8196876' />
+  <node id='-1001' visible='true' version='1' lat='59.7174945' lon='10.8194654' />
+  <node id='-999' visible='true' version='1' lat='59.7183797' lon='10.8191904' />
+  <node id='-997' visible='true' version='1' lat='59.7184308' lon='10.8191899' />
+  <node id='-995' visible='true' version='1' lat='59.7192153' lon='10.8192151' />
+  <node id='-993' visible='true' version='1' lat='59.7193169' lon='10.8192152' />
+  <node id='-991' visible='true' version='1' lat='59.7198302' lon='10.8191583' />
+  <node id='-989' visible='true' version='1' lat='59.7199381' lon='10.8191439' />
+  <node id='-987' visible='true' version='1' lat='59.719983' lon='10.8191307' />
+  <node id='-985' visible='true' version='1' lat='59.7200566' lon='10.8191218' />
+  <node id='-983' visible='true' version='1' lat='59.7201397' lon='10.819112' />
+  <node id='-981' visible='true' version='1' lat='59.7198012' lon='10.8243057' />
+  <node id='-979' visible='true' version='1' lat='59.719952' lon='10.8246849' />
+  <node id='-977' visible='true' version='1' lat='59.7199829' lon='10.8253403' />
+  <node id='-975' visible='true' version='1' lat='59.7199907' lon='10.8255091' />
+  <node id='-963' visible='true' version='1' lat='59.7214401' lon='10.8198971' />
+  <node id='-961' visible='true' version='1' lat='59.7214212' lon='10.8200333' />
+  <node id='-953' visible='true' version='1' lat='59.7209852' lon='10.8149595' />
+  <node id='-951' visible='true' version='1' lat='59.7203588' lon='10.8156975' />
+  <node id='-949' visible='true' version='1' lat='59.7202895' lon='10.8157674' />
+  <node id='-947' visible='true' version='1' lat='59.7196605' lon='10.8160807' />
+  <node id='-945' visible='true' version='1' lat='59.719336' lon='10.8160491' />
+  <node id='-943' visible='true' version='1' lat='59.7193026' lon='10.8160458' />
+  <node id='-941' visible='true' version='1' lat='59.719172' lon='10.8162285' />
+  <node id='-939' visible='true' version='1' lat='59.7190797' lon='10.8171308' />
+  <node id='-925' visible='true' version='1' lat='59.7215346' lon='10.8124488' />
+  <node id='-923' visible='true' version='1' lat='59.721499' lon='10.8118439' />
+  <node id='-921' visible='true' version='1' lat='59.7215526' lon='10.8110183' />
+  <node id='-917' visible='true' version='1' lat='59.7174132' lon='10.8269103' />
+  <node id='-915' visible='true' version='1' lat='59.7174727' lon='10.8269634' />
+  <node id='-913' visible='true' version='1' lat='59.7175393' lon='10.8270601' />
+  <node id='-901' visible='true' version='1' lat='59.7176113' lon='10.8272676' />
+  <node id='-899' visible='true' version='1' lat='59.7176303' lon='10.8272015' />
+  <node id='-897' visible='true' version='1' lat='59.7177553' lon='10.8267831' />
+  <node id='-895' visible='true' version='1' lat='59.7177715' lon='10.8267255' />
+  <node id='-893' visible='true' version='1' lat='59.7178469' lon='10.8264799' />
+  <node id='-891' visible='true' version='1' lat='59.7179587' lon='10.826092' />
+  <node id='-889' visible='true' version='1' lat='59.7144563' lon='10.8221639' />
+  <node id='-887' visible='true' version='1' lat='59.7146085' lon='10.8204243' />
+  <node id='-885' visible='true' version='1' lat='59.7146145' lon='10.8203091' />
+  <node id='-883' visible='true' version='1' lat='59.7152173' lon='10.8206982' />
+  <node id='-881' visible='true' version='1' lat='59.7151536' lon='10.8205209' />
+  <node id='-879' visible='true' version='1' lat='59.7151333' lon='10.8208135' />
+  <node id='-877' visible='true' version='1' lat='59.7150973' lon='10.8207689' />
+  <node id='-875' visible='true' version='1' lat='59.7150713' lon='10.8206828' />
+  <node id='-873' visible='true' version='1' lat='59.7150813' lon='10.8205881' />
+  <node id='-871' visible='true' version='1' lat='59.7150905' lon='10.8204672' />
+  <node id='-869' visible='true' version='1' lat='59.7150804' lon='10.8202499' />
+  <node id='-867' visible='true' version='1' lat='59.713184' lon='10.820225' />
+  <node id='-865' visible='true' version='1' lat='59.7134929' lon='10.8202314' />
+  <node id='-863' visible='true' version='1' lat='59.7136589' lon='10.8202283' />
+  <node id='-861' visible='true' version='1' lat='59.7137884' lon='10.8202301' />
+  <node id='-859' visible='true' version='1' lat='59.7139329' lon='10.8202323' />
+  <node id='-857' visible='true' version='1' lat='59.7139946' lon='10.8202321' />
+  <node id='-855' visible='true' version='1' lat='59.7141762' lon='10.8202304' />
+  <node id='-853' visible='true' version='1' lat='59.7143057' lon='10.8202317' />
+  <node id='-851' visible='true' version='1' lat='59.7145336' lon='10.8202235' />
+  <node id='-849' visible='true' version='1' lat='59.7146145' lon='10.8202346' />
+  <node id='-847' visible='true' version='1' lat='59.7149592' lon='10.8202483' />
+  <node id='-845' visible='true' version='1' lat='59.7150023' lon='10.8202411' />
+  <node id='-843' visible='true' version='1' lat='59.7150598' lon='10.820216' />
+  <node id='-841' visible='true' version='1' lat='59.7150702' lon='10.8202024' />
+  <node id='-839' visible='true' version='1' lat='59.7151473' lon='10.8198804' />
+  <node id='-837' visible='true' version='1' lat='59.7151792' lon='10.8196454' />
+  <node id='-835' visible='true' version='1' lat='59.7152509' lon='10.8190891' />
+  <node id='-833' visible='true' version='1' lat='59.7152927' lon='10.8187711' />
+  <node id='-831' visible='true' version='1' lat='59.7153514' lon='10.8182983' />
+  <node id='-829' visible='true' version='1' lat='59.7153536' lon='10.8182808' />
+  <node id='-827' visible='true' version='1' lat='59.7154395' lon='10.8176353' />
+  <node id='-825' visible='true' version='1' lat='59.7154723' lon='10.8173824' />
+  <node id='-823' visible='true' version='1' lat='59.7155912' lon='10.8164484' />
+  <node id='-821' visible='true' version='1' lat='59.7157373' lon='10.8153764' />
+  <node id='-819' visible='true' version='1' lat='59.7157757' lon='10.8150856' />
+  <node id='-817' visible='true' version='1' lat='59.715833' lon='10.8146482' />
+  <node id='-815' visible='true' version='1' lat='59.715843' lon='10.8145756' />
+  <node id='-803' visible='true' version='1' lat='59.7204032' lon='10.8221333' />
+  <node id='-801' visible='true' version='1' lat='59.7203593' lon='10.8221463' />
+  <node id='-799' visible='true' version='1' lat='59.7202823' lon='10.8221604' />
+  <node id='-797' visible='true' version='1' lat='59.720208' lon='10.822173' />
+  <node id='-775' visible='true' version='1' lat='59.7166477' lon='10.8110059' />
+  <node id='-773' visible='true' version='1' lat='59.7166375' lon='10.8119139' />
+  <node id='-771' visible='true' version='1' lat='59.7165673' lon='10.8125225' />
+  <node id='-769' visible='true' version='1' lat='59.7174846' lon='10.8143093' />
+  <node id='-767' visible='true' version='1' lat='59.7174909' lon='10.8142245' />
+  <node id='-765' visible='true' version='1' lat='59.7170792' lon='10.8133032' />
+  <node id='-763' visible='true' version='1' lat='59.7168812' lon='10.8130178' />
+  <node id='-761' visible='true' version='1' lat='59.7166702' lon='10.8128492' />
+  <node id='-759' visible='true' version='1' lat='59.7166001' lon='10.8128132' />
+  <node id='-757' visible='true' version='1' lat='59.7165491' lon='10.8128327' />
+  <node id='-755' visible='true' version='1' lat='59.7165334' lon='10.8128548' />
+  <node id='-753' visible='true' version='1' lat='59.7163679' lon='10.8139973' />
+  <node id='-751' visible='true' version='1' lat='59.7163619' lon='10.8140405' />
+  <node id='-749' visible='true' version='1' lat='59.7162865' lon='10.8145966' />
+  <node id='-515' visible='true' version='1' lat='59.7209027' lon='10.8254571' />
+  <node id='-513' visible='true' version='1' lat='59.7210841' lon='10.8264402' />
+  <node id='-509' visible='true' version='1' lat='59.7211343' lon='10.8264792' />
+  <node id='-507' visible='true' version='1' lat='59.7210909' lon='10.8264857' />
+  <node id='-505' visible='true' version='1' lat='59.720672' lon='10.8268141' />
+  <node id='-503' visible='true' version='1' lat='59.7206214' lon='10.8268754' />
+  <node id='-501' visible='true' version='1' lat='59.7205397' lon='10.8269299' />
+  <node id='-499' visible='true' version='1' lat='59.7204867' lon='10.8269744' />
+  <node id='-497' visible='true' version='1' lat='59.7203896' lon='10.8270193' />
+  <node id='-495' visible='true' version='1' lat='59.7203623' lon='10.827025' />
+  <node id='-493' visible='true' version='1' lat='59.7203187' lon='10.8270305' />
+  <node id='-491' visible='true' version='1' lat='59.716722' lon='10.8151114' />
+  <node id='-489' visible='true' version='1' lat='59.7166005' lon='10.8163256' />
+  <node id='-487' visible='true' version='1' lat='59.7165927' lon='10.8164059' />
+  <node id='-485' visible='true' version='1' lat='59.7164829' lon='10.8175286' />
+  <node id='-483' visible='true' version='1' lat='59.7164767' lon='10.8175945' />
+  <node id='-481' visible='true' version='1' lat='59.7163693' lon='10.8187489' />
+  <node id='-479' visible='true' version='1' lat='59.7163627' lon='10.8188959' />
+  <node id='-477' visible='true' version='1' lat='59.7163536' lon='10.8199673' />
+  <node id='-475' visible='true' version='1' lat='59.7163555' lon='10.8200883' />
+  <node id='-473' visible='true' version='1' lat='59.7208944' lon='10.8150528' />
+  <node id='-465' visible='true' version='1' lat='59.7215329' lon='10.8195077' />
+  <node id='-463' visible='true' version='1' lat='59.7180889' lon='10.8165505' />
+  <node id='-461' visible='true' version='1' lat='59.7185349' lon='10.8168694' />
+  <node id='-459' visible='true' version='1' lat='59.7186228' lon='10.8169205' />
+  <node id='-457' visible='true' version='1' lat='59.7189992' lon='10.8171366' />
+  <node id='-455' visible='true' version='1' lat='59.7190734' lon='10.8171794' />
+  <node id='-453' visible='true' version='1' lat='59.7196842' lon='10.8175266' />
+  <node id='-451' visible='true' version='1' lat='59.7197498' lon='10.8175622' />
+  <node id='-449' visible='true' version='1' lat='59.719839' lon='10.8176113' />
+  <node id='-447' visible='true' version='1' lat='59.7198807' lon='10.8176259' />
+  <node id='-439' visible='true' version='1' lat='59.7198215' lon='10.8108981' />
+  <node id='-437' visible='true' version='1' lat='59.7192743' lon='10.8129965' />
+  <node id='-435' visible='true' version='1' lat='59.719236' lon='10.8130869' />
+  <node id='-433' visible='true' version='1' lat='59.7190126' lon='10.8134915' />
+  <node id='-431' visible='true' version='1' lat='59.7189801' lon='10.8135372' />
+  <node id='-429' visible='true' version='1' lat='59.7187479' lon='10.8139018' />
+  <node id='-427' visible='true' version='1' lat='59.718704' lon='10.8139866' />
+  <node id='-425' visible='true' version='1' lat='59.7177141' lon='10.8158387' />
+  <node id='-423' visible='true' version='1' lat='59.7176254' lon='10.8160217' />
+  <node id='-421' visible='true' version='1' lat='59.7174238' lon='10.816716' />
+  <node id='-419' visible='true' version='1' lat='59.7174138' lon='10.8167894' />
+  <node id='-417' visible='true' version='1' lat='59.7174118' lon='10.8171811' />
+  <node id='-415' visible='true' version='1' lat='59.7174072' lon='10.8173438' />
+  <node id='-413' visible='true' version='1' lat='59.7175799' lon='10.8193192' />
+  <node id='-411' visible='true' version='1' lat='59.7175926' lon='10.8194501' />
+  <node id='-409' visible='true' version='1' lat='59.7176041' lon='10.8196179' />
+  <node id='-407' visible='true' version='1' lat='59.7176736' lon='10.8218167' />
+  <node id='-405' visible='true' version='1' lat='59.7176745' lon='10.8218737' />
+  <node id='-403' visible='true' version='1' lat='59.7176624' lon='10.8227554' />
+  <node id='-401' visible='true' version='1' lat='59.7176572' lon='10.8229156' />
+  <node id='-399' visible='true' version='1' lat='59.7176544' lon='10.8235848' />
+  <node id='-397' visible='true' version='1' lat='59.717659' lon='10.8237386' />
+  <node id='-395' visible='true' version='1' lat='59.7178171' lon='10.8247543' />
+  <node id='-393' visible='true' version='1' lat='59.7178478' lon='10.8248902' />
+  <node id='-391' visible='true' version='1' lat='59.7179026' lon='10.8251621' />
+  <node id='-389' visible='true' version='1' lat='59.7179356' lon='10.8253145' />
+  <node id='-387' visible='true' version='1' lat='59.7180456' lon='10.8256787' />
+  <node id='-385' visible='true' version='1' lat='59.7180238' lon='10.8257766' />
+  <node id='-383' visible='true' version='1' lat='59.7180026' lon='10.8258789' />
+  <node id='-381' visible='true' version='1' lat='59.7179795' lon='10.8259906' />
+  <node id='-379' visible='true' version='1' lat='59.7187426' lon='10.8268014' />
+  <node id='-377' visible='true' version='1' lat='59.7191365' lon='10.8273239' />
+  <node id='-375' visible='true' version='1' lat='59.7192056' lon='10.8274239' />
+  <node id='-339' visible='true' version='1' lat='59.7145308' lon='10.8103539' />
+  <node id='-337' visible='true' version='1' lat='59.7146781' lon='10.8112503' />
+  <node id='-335' visible='true' version='1' lat='59.7146793' lon='10.8114242' />
+  <node id='-333' visible='true' version='1' lat='59.7146297' lon='10.8121205' />
+  <node id='-331' visible='true' version='1' lat='59.7143918' lon='10.8132906' />
+  <node id='-329' visible='true' version='1' lat='59.7132783' lon='10.8133107' />
+  <node id='-327' visible='true' version='1' lat='59.7139009' lon='10.8132908' />
+  <node id='-325' visible='true' version='1' lat='59.7139868' lon='10.8132984' />
+  <node id='-323' visible='true' version='1' lat='59.7142779' lon='10.8133288' />
+  <node id='-321' visible='true' version='1' lat='59.7143192' lon='10.8133401' />
+  <node id='-319' visible='true' version='1' lat='59.7143567' lon='10.8133479' />
+  <node id='-317' visible='true' version='1' lat='59.7143837' lon='10.8133582' />
+  <node id='-315' visible='true' version='1' lat='59.7146123' lon='10.813543' />
+  <node id='-313' visible='true' version='1' lat='59.7147637' lon='10.8136775' />
+  <node id='-311' visible='true' version='1' lat='59.7148965' lon='10.8137939' />
+  <node id='-309' visible='true' version='1' lat='59.7150902' lon='10.8139734' />
+  <node id='-307' visible='true' version='1' lat='59.7152328' lon='10.8141026' />
+  <node id='-305' visible='true' version='1' lat='59.715342' lon='10.8141906' />
+  <node id='-303' visible='true' version='1' lat='59.715476' lon='10.8142644' />
+  <node id='-301' visible='true' version='1' lat='59.7157394' lon='10.8144224' />
+  <node id='-299' visible='true' version='1' lat='59.7158531' lon='10.8145027' />
+  <node id='-297' visible='true' version='1' lat='59.7162287' lon='10.8147199' />
+  <node id='-295' visible='true' version='1' lat='59.7162686' lon='10.8147416' />
+  <node id='-293' visible='true' version='1' lat='59.7163085' lon='10.8147635' />
+  <node id='-291' visible='true' version='1' lat='59.7163824' lon='10.8148128' />
+  <node id='-289' visible='true' version='1' lat='59.7166725' lon='10.8149892' />
+  <node id='-287' visible='true' version='1' lat='59.7167351' lon='10.8150294' />
+  <node id='-285' visible='true' version='1' lat='59.71705' lon='10.815233' />
+  <node id='-283' visible='true' version='1' lat='59.717145' lon='10.8153123' />
+  <node id='-281' visible='true' version='1' lat='59.7176044' lon='10.8158695' />
+  <node id='-279' visible='true' version='1' lat='59.7176622' lon='10.815955' />
+  <node id='-277' visible='true' version='1' lat='59.7142524' lon='10.8113177' />
+  <node id='-275' visible='true' version='1' lat='59.7142546' lon='10.8114167' />
+  <node id='-273' visible='true' version='1' lat='59.7142384' lon='10.8120997' />
+  <node id='-271' visible='true' version='1' lat='59.7141198' lon='10.8124049' />
+  <node id='-269' visible='true' version='1' lat='59.7138582' lon='10.8124846' />
+  <node id='-267' visible='true' version='1' lat='59.7133344' lon='10.8124393' />
+  <node id='-265' visible='true' version='1' lat='59.7133237' lon='10.8124253' />
+  <node id='-263' visible='true' version='1' lat='59.7132682' lon='10.8122687' />
+  <node id='-261' visible='true' version='1' lat='59.7132656' lon='10.810394' />
+  <node id='-259' visible='true' version='1' lat='59.7132659' lon='10.8102337' />
+  <node id='-257' visible='true' version='1' lat='59.7132664' lon='10.8091382' />
+  <node id='-255' visible='true' version='1' lat='59.7133075' lon='10.8089026' />
+  <node id='-253' visible='true' version='1' lat='59.7133343' lon='10.8088474' />
+  <node id='-251' visible='true' version='1' lat='59.7135402' lon='10.8088483' />
+  <node id='-249' visible='true' version='1' lat='59.7137909' lon='10.8089933' />
+  <node id='-247' visible='true' version='1' lat='59.7139517' lon='10.8095959' />
+  <node id='-245' visible='true' version='1' lat='59.7139722' lon='10.8097009' />
+  <node id='-243' visible='true' version='1' lat='59.7139951' lon='10.8098171' />
+  <node id='-241' visible='true' version='1' lat='59.7140129' lon='10.8099129' />
+  <node id='-239' visible='true' version='1' lat='59.7140789' lon='10.8102341' />
+  <node id='-237' visible='true' version='1' lat='59.7140953' lon='10.8103006' />
+  <node id='-235' visible='true' version='1' lat='59.7144472' lon='10.8101974' />
+  <node id='-121' visible='true' version='1' lat='59.7215192' lon='10.8124433' />
+  <node id='-119' visible='true' version='1' lat='59.7214444' lon='10.8124605' />
+  <node id='-117' visible='true' version='1' lat='59.7214357' lon='10.8124635' />
+  <node id='-115' visible='true' version='1' lat='59.7209908' lon='10.8125237' />
+  <node id='-113' visible='true' version='1' lat='59.7209107' lon='10.8125348' />
+  <node id='-111' visible='true' version='1' lat='59.7208172' lon='10.8125416' />
+  <node id='-109' visible='true' version='1' lat='59.7207493' lon='10.8125596' />
+  <node id='-107' visible='true' version='1' lat='59.7206796' lon='10.8125678' />
+  <node id='-105' visible='true' version='1' lat='59.7205174' lon='10.8125913' />
+  <node id='-103' visible='true' version='1' lat='59.7204157' lon='10.812593' />
+  <node id='-101' visible='true' version='1' lat='59.7202381' lon='10.8126311' />
+  <node id='-99' visible='true' version='1' lat='59.7201033' lon='10.8126437' />
+  <node id='-97' visible='true' version='1' lat='59.7200431' lon='10.8126457' />
+  <node id='-95' visible='true' version='1' lat='59.7132459' lon='10.8163695' />
+  <node id='-93' visible='true' version='1' lat='59.7134348' lon='10.8163722' />
+  <node id='-91' visible='true' version='1' lat='59.7134982' lon='10.8163712' />
+  <node id='-89' visible='true' version='1' lat='59.7135806' lon='10.8163714' />
+  <node id='-87' visible='true' version='1' lat='59.713654' lon='10.8163724' />
+  <node id='-85' visible='true' version='1' lat='59.713769' lon='10.8163717' />
+  <node id='-83' visible='true' version='1' lat='59.7139524' lon='10.8163721' />
+  <node id='-81' visible='true' version='1' lat='59.714012' lon='10.8163746' />
+  <node id='-79' visible='true' version='1' lat='59.7140852' lon='10.8163738' />
+  <node id='-77' visible='true' version='1' lat='59.7142814' lon='10.8163754' />
+  <node id='-75' visible='true' version='1' lat='59.7143393' lon='10.8163753' />
+  <node id='-73' visible='true' version='1' lat='59.7145516' lon='10.8163703' />
+  <node id='-71' visible='true' version='1' lat='59.7146468' lon='10.8163712' />
+  <node id='-69' visible='true' version='1' lat='59.7148191' lon='10.8163712' />
+  <node id='-67' visible='true' version='1' lat='59.7149286' lon='10.8163755' />
+  <node id='-65' visible='true' version='1' lat='59.715189' lon='10.8163732' />
+  <node id='-63' visible='true' version='1' lat='59.715255' lon='10.8163744' />
+  <node id='-61' visible='true' version='1' lat='59.7153469' lon='10.8163768' />
+  <node id='-59' visible='true' version='1' lat='59.7154061' lon='10.8163907' />
+  <node id='-57' visible='true' version='1' lat='59.7154981' lon='10.8163915' />
+  <node id='-55' visible='true' version='1' lat='59.7155057' lon='10.8163938' />
+  <node id='-53' visible='true' version='1' lat='59.7155751' lon='10.8164162' />
+  <node id='-51' visible='true' version='1' lat='59.7155946' lon='10.8164225' />
+  <node id='-33' visible='true' version='1' lat='59.7172131' lon='10.8268763' />
+  <node id='-31' visible='true' version='1' lat='59.7172503' lon='10.8267795' />
+  <way id='-8333' action='modify' visible='true'>
+    <nd ref='-4579' />
+    <nd ref='-5353' />
+    <nd ref='-4599' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808151' />
+  </way>
+  <way id='-8331' action='modify' visible='true'>
+    <nd ref='-4551' />
+    <nd ref='-5351' />
+    <nd ref='-4579' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808150' />
+  </way>
+  <way id='-8329' action='modify' visible='true'>
+    <nd ref='-5227' />
+    <nd ref='-5349' />
+    <nd ref='-4551' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808149' />
+  </way>
+  <way id='-8327' action='modify' visible='true'>
+    <nd ref='-4445' />
+    <nd ref='-5345' />
+    <nd ref='-5347' />
+    <nd ref='-845' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808148' />
+  </way>
+  <way id='-8325' action='modify' visible='true'>
+    <nd ref='-4435' />
+    <nd ref='-5343' />
+    <nd ref='-4445' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808147' />
+  </way>
+  <way id='-8323' action='modify' visible='true'>
+    <nd ref='-4439' />
+    <nd ref='-5341' />
+    <nd ref='-4435' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808146' />
+  </way>
+  <way id='-8321' action='modify' visible='true'>
+    <nd ref='-5263' />
+    <nd ref='-5337' />
+    <nd ref='-5339' />
+    <nd ref='-4439' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808145' />
+  </way>
+  <way id='-8319' action='modify' visible='true'>
+    <nd ref='-3933' />
+    <nd ref='-5335' />
+    <nd ref='-4523' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808144' />
+  </way>
+  <way id='-8317' action='modify' visible='true'>
+    <nd ref='-885' />
+    <nd ref='-5333' />
+    <nd ref='-3933' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808143' />
+  </way>
+  <way id='-8315' action='modify' visible='true'>
+    <nd ref='-5259' />
+    <nd ref='-5331' />
+    <nd ref='-885' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808142' />
+  </way>
+  <way id='-8313' action='modify' visible='true'>
+    <nd ref='-4427' />
+    <nd ref='-5321' />
+    <nd ref='-5323' />
+    <nd ref='-5325' />
+    <nd ref='-5327' />
+    <nd ref='-5329' />
+    <nd ref='-329' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808141' />
+  </way>
+  <way id='-8301' visible='true' version='1'>
+    <nd ref='-1113' />
+    <nd ref='-5293' />
+    <nd ref='-5477' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808135' />
+  </way>
+  <way id='-8299' action='modify' visible='true'>
+    <nd ref='-291' />
+    <nd ref='-5289' />
+    <nd ref='-5291' />
+    <nd ref='-2781' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808134' />
+  </way>
+  <way id='-8297' visible='true' version='1'>
+    <nd ref='-5279' />
+    <nd ref='-291' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808133' />
+  </way>
+  <way id='-8295' action='modify' visible='true'>
+    <nd ref='-2781' />
+    <nd ref='-5285' />
+    <nd ref='-5287' />
+    <nd ref='-759' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808132' />
+  </way>
+  <way id='-8293' action='modify' visible='true'>
+    <nd ref='-815' />
+    <nd ref='-5283' />
+    <nd ref='-5279' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808131' />
+  </way>
+  <way id='-8291' action='modify' visible='true'>
+    <nd ref='-5279' />
+    <nd ref='-5281' />
+    <nd ref='-491' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808130' />
+  </way>
+  <way id='-8289' action='modify' visible='true'>
+    <nd ref='-491' />
+    <nd ref='-5275' />
+    <nd ref='-5277' />
+    <nd ref='-423' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808129' />
+  </way>
+  <way id='-8287' action='modify' visible='true'>
+    <nd ref='-5271' />
+    <nd ref='-5273' />
+    <nd ref='-423' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808128' />
+  </way>
+  <way id='-8285' action='modify' visible='true'>
+    <nd ref='-4327' />
+    <nd ref='-5267' />
+    <nd ref='-5269' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808127' />
+  </way>
+  <way id='-8283' action='modify' visible='true'>
+    <nd ref='-5263' />
+    <nd ref='-5265' />
+    <nd ref='-4327' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808126' />
+  </way>
+  <way id='-8281' action='modify' visible='true'>
+    <nd ref='-5259' />
+    <nd ref='-5261' />
+    <nd ref='-4451' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808125' />
+  </way>
+  <way id='-8275' action='modify' visible='true'>
+    <nd ref='-389' />
+    <nd ref='-5245' />
+    <nd ref='-385' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808122' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-8267' action='modify' visible='true'>
+    <nd ref='-4321' />
+    <nd ref='-5231' />
+    <nd ref='-5233' />
+    <nd ref='-55' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808118' />
+  </way>
+  <way id='-8265' action='modify' visible='true'>
+    <nd ref='-5227' />
+    <nd ref='-5229' />
+    <nd ref='-4321' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808117' />
+  </way>
+  <way id='-8257' action='modify' visible='true'>
+    <nd ref='-4325' />
+    <nd ref='-5195' />
+    <nd ref='-5197' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808113' />
+  </way>
+  <way id='-8255' action='modify' visible='true'>
+    <nd ref='-5193' />
+    <nd ref='-4325' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808112' />
+  </way>
+  <way id='-8245' action='modify' visible='true'>
+    <nd ref='-915' />
+    <nd ref='-5171' />
+    <nd ref='-895' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808107' />
+  </way>
+  <way id='-8241' action='modify' visible='true'>
+    <nd ref='-4555' />
+    <nd ref='-5165' />
+    <nd ref='-5167' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808105' />
+  </way>
+  <way id='-8239' visible='true' version='1'>
+    <nd ref='-1669' />
+    <nd ref='-5161' />
+    <nd ref='-5163' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808104' />
+  </way>
+  <way id='-8237' action='modify' visible='true'>
+    <nd ref='-5159' />
+    <nd ref='-4407' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808103' />
+  </way>
+  <way id='-8231' action='modify' visible='true'>
+    <nd ref='-5143' />
+    <nd ref='-5145' />
+    <nd ref='-5147' />
+    <nd ref='-5149' />
+    <nd ref='-5151' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808100' />
+  </way>
+  <way id='-8229' action='modify' visible='true'>
+    <nd ref='-1043' />
+    <nd ref='-5141' />
+    <nd ref='-5143' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808099' />
+  </way>
+  <way id='-8227' action='modify' visible='true'>
+    <nd ref='-1877' />
+    <nd ref='-5135' />
+    <nd ref='-5137' />
+    <nd ref='-5139' />
+    <nd ref='-1043' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808098' />
+  </way>
+  <way id='-8225' action='modify' visible='true'>
+    <nd ref='-5133' />
+    <nd ref='-1877' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808097' />
+  </way>
+  <way id='-8203' action='modify' visible='true'>
+    <nd ref='-1329' />
+    <nd ref='-5085' />
+    <nd ref='-389' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808086' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-8149' visible='true' version='1'>
+    <nd ref='-5031' />
+    <nd ref='-3873' />
+    <tag k='highway' v='road' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323096183' />
+  </way>
+  <way id='-8147' action='modify' visible='true'>
+    <nd ref='-97' />
+    <nd ref='-5029' />
+    <nd ref='-5031' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323096181' />
+  </way>
+  <way id='-8145' action='modify' visible='true'>
+    <nd ref='-5027' />
+    <nd ref='-97' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323096180' />
+  </way>
+  <way id='-8085' action='modify' visible='true'>
+    <nd ref='-1979' />
+    <nd ref='-4913' />
+    <nd ref='-4735' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323096135' />
+  </way>
+  <way id='-8081' action='modify' visible='true'>
+    <nd ref='-889' />
+    <nd ref='-4901' />
+    <nd ref='-4903' />
+    <nd ref='-4905' />
+    <nd ref='-4907' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323096133' />
+  </way>
+  <way id='-8049' action='modify' visible='true'>
+    <nd ref='-117' />
+    <nd ref='-4843' />
+    <nd ref='-2421' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='323096118' />
+  </way>
+  <way id='-8009' action='modify' visible='true'>
+    <nd ref='-2475' />
+    <nd ref='-4751' />
+    <nd ref='-4753' />
+    <nd ref='-4755' />
+    <nd ref='-4757' />
+    <nd ref='-4759' />
+    <nd ref='-4761' />
+    <nd ref='-4763' />
+    <nd ref='-2471' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484634' />
+  </way>
+  <way id='-7997' action='modify' visible='true'>
+    <nd ref='-2283' />
+    <nd ref='-4733' />
+    <nd ref='-4735' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484628' />
+  </way>
+  <way id='-7981' action='modify' visible='true'>
+    <nd ref='-113' />
+    <nd ref='-4697' />
+    <nd ref='-4699' />
+    <nd ref='-4701' />
+    <nd ref='-2309' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484589' />
+  </way>
+  <way id='-7977' action='modify' visible='true'>
+    <nd ref='-947' />
+    <nd ref='-4691' />
+    <nd ref='-4693' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484585' />
+  </way>
+  <way id='-7975' action='modify' visible='true'>
+    <nd ref='-1767' />
+    <nd ref='-4687' />
+    <nd ref='-4689' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484584' />
+  </way>
+  <way id='-7973' action='modify' visible='true'>
+    <nd ref='-1763' />
+    <nd ref='-4683' />
+    <nd ref='-4685' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484583' />
+  </way>
+  <way id='-7971' visible='true' version='1'>
+    <nd ref='-5495' />
+    <nd ref='-1125' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484582' />
+  </way>
+  <way id='-7969' visible='true' version='1'>
+    <nd ref='-1101' />
+    <nd ref='-4681' />
+    <nd ref='-5495' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484581' />
+  </way>
+  <way id='-7967' action='modify' visible='true'>
+    <nd ref='-1767' />
+    <nd ref='-4675' />
+    <nd ref='-4677' />
+    <nd ref='-4679' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='320484580' />
+  </way>
+  <way id='-7965' action='modify' visible='true'>
+    <nd ref='-1763' />
+    <nd ref='-4671' />
+    <nd ref='-4673' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484579' />
+  </way>
+  <way id='-7963' action='modify' visible='true'>
+    <nd ref='-2865' />
+    <nd ref='-4669' />
+    <nd ref='-245' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484578' />
+  </way>
+  <way id='-7961' action='modify' visible='true'>
+    <nd ref='-4659' />
+    <nd ref='-4667' />
+    <nd ref='-259' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484577' />
+  </way>
+  <way id='-7959' action='modify' visible='true'>
+    <nd ref='-241' />
+    <nd ref='-4665' />
+    <nd ref='-4659' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484576' />
+  </way>
+  <way id='-7957' action='modify' visible='true'>
+    <nd ref='-265' />
+    <nd ref='-4661' />
+    <nd ref='-4663' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484575' />
+  </way>
+  <way id='-7955' action='modify' visible='true'>
+    <nd ref='-275' />
+    <nd ref='-4653' />
+    <nd ref='-4655' />
+    <nd ref='-4657' />
+    <nd ref='-4659' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484574' />
+  </way>
+  <way id='-7953' action='modify' visible='true'>
+    <nd ref='-329' />
+    <nd ref='-4651' />
+    <nd ref='-4423' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484573' />
+  </way>
+  <way id='-7951' action='modify' visible='true'>
+    <nd ref='-4319' />
+    <nd ref='-4647' />
+    <nd ref='-4649' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-05-09' />
+    <tag k='nvdb:id' v='320484572' />
+  </way>
+  <way id='-7949' action='modify' visible='true'>
+    <nd ref='-4319' />
+    <nd ref='-4641' />
+    <nd ref='-4643' />
+    <nd ref='-4645' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-05-09' />
+    <tag k='nvdb:id' v='320484571' />
+  </way>
+  <way id='-7947' action='modify' visible='true'>
+    <nd ref='-1683' />
+    <nd ref='-4639' />
+    <nd ref='-1661' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484570' />
+  </way>
+  <way id='-7945' action='modify' visible='true'>
+    <nd ref='-2861' />
+    <nd ref='-4637' />
+    <nd ref='-1683' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484569' />
+  </way>
+  <way id='-7943' action='modify' visible='true'>
+    <nd ref='-4413' />
+    <nd ref='-4635' />
+    <nd ref='-4383' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484568' />
+  </way>
+  <way id='-7941' action='modify' visible='true'>
+    <nd ref='-4391' />
+    <nd ref='-4633' />
+    <nd ref='-4417' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484567' />
+  </way>
+  <way id='-7939' action='modify' visible='true'>
+    <nd ref='-4627' />
+    <nd ref='-4631' />
+    <nd ref='-4391' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484566' />
+  </way>
+  <way id='-7937' action='modify' visible='true'>
+    <nd ref='-4627' />
+    <nd ref='-4629' />
+    <nd ref='-4573' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484565' />
+  </way>
+  <way id='-7935' action='modify' visible='true'>
+    <nd ref='-4619' />
+    <nd ref='-4625' />
+    <nd ref='-4627' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484564' />
+  </way>
+  <way id='-7933' action='modify' visible='true'>
+    <nd ref='-325' />
+    <nd ref='-4623' />
+    <nd ref='-4619' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484563' />
+  </way>
+  <way id='-7931' action='modify' visible='true'>
+    <nd ref='-4619' />
+    <nd ref='-4621' />
+    <nd ref='-4609' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484562' />
+  </way>
+  <way id='-7929' action='modify' visible='true'>
+    <nd ref='-4609' />
+    <nd ref='-4615' />
+    <nd ref='-4617' />
+    <nd ref='-4605' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484561' />
+  </way>
+  <way id='-7927' action='modify' visible='true'>
+    <nd ref='-4609' />
+    <nd ref='-4611' />
+    <nd ref='-4613' />
+    <nd ref='-4605' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484560' />
+  </way>
+  <way id='-7925' action='modify' visible='true'>
+    <nd ref='-4605' />
+    <nd ref='-4607' />
+    <nd ref='-4423' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484559' />
+  </way>
+  <way id='-7923' action='modify' visible='true'>
+    <nd ref='-4595' />
+    <nd ref='-4603' />
+    <nd ref='-4567' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484558' />
+  </way>
+  <way id='-7921' visible='true' version='1'>
+    <nd ref='-4591' />
+    <nd ref='-4595' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484557' />
+  </way>
+  <way id='-7919' action='modify' visible='true'>
+    <nd ref='-4599' />
+    <nd ref='-4601' />
+    <nd ref='-4591' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808077' />
+  </way>
+  <way id='-7917' visible='true' version='1'>
+    <nd ref='-321' />
+    <nd ref='-4597' />
+    <nd ref='-4599' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808076' />
+  </way>
+  <way id='-7915' action='modify' visible='true'>
+    <nd ref='-4585' />
+    <nd ref='-4593' />
+    <nd ref='-4595' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484555' />
+  </way>
+  <way id='-7913' action='modify' visible='true'>
+    <nd ref='-4583' />
+    <nd ref='-4589' />
+    <nd ref='-4591' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484554' />
+  </way>
+  <way id='-7911' action='modify' visible='true'>
+    <nd ref='-4585' />
+    <nd ref='-4587' />
+    <nd ref='-4563' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484553' />
+  </way>
+  <way id='-7909' visible='true' version='1'>
+    <nd ref='-4583' />
+    <nd ref='-4585' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484552' />
+  </way>
+  <way id='-7907' visible='true' version='1'>
+    <nd ref='-4579' />
+    <nd ref='-4581' />
+    <nd ref='-4583' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808075' />
+  </way>
+  <way id='-7905' visible='true' version='1'>
+    <nd ref='-311' />
+    <nd ref='-4579' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808074' />
+  </way>
+  <way id='-7903' action='modify' visible='true'>
+    <nd ref='-4379' />
+    <nd ref='-4577' />
+    <nd ref='-4387' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484550' />
+  </way>
+  <way id='-7901' action='modify' visible='true'>
+    <nd ref='-4573' />
+    <nd ref='-4575' />
+    <nd ref='-4379' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484549' />
+  </way>
+  <way id='-7899' visible='true' version='1'>
+    <nd ref='-4371' />
+    <nd ref='-4571' />
+    <nd ref='-4573' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484548' />
+  </way>
+  <way id='-7897' action='modify' visible='true'>
+    <nd ref='-4567' />
+    <nd ref='-4569' />
+    <nd ref='-4371' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484547' />
+  </way>
+  <way id='-7895' visible='true' version='1'>
+    <nd ref='-4367' />
+    <nd ref='-4567' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484546' />
+  </way>
+  <way id='-7893' action='modify' visible='true'>
+    <nd ref='-4563' />
+    <nd ref='-4565' />
+    <nd ref='-4367' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484545' />
+  </way>
+  <way id='-7891' visible='true' version='1'>
+    <nd ref='-4339' />
+    <nd ref='-4561' />
+    <nd ref='-4563' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484544' />
+  </way>
+  <way id='-7889' action='modify' visible='true'>
+    <nd ref='-4337' />
+    <nd ref='-4559' />
+    <nd ref='-4339' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484543' />
+  </way>
+  <way id='-7887' action='modify' visible='true'>
+    <nd ref='-4555' />
+    <nd ref='-4557' />
+    <nd ref='-4337' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808073' />
+  </way>
+  <way id='-7885' action='modify' visible='true'>
+    <nd ref='-4551' />
+    <nd ref='-4553' />
+    <nd ref='-4555' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808072' />
+  </way>
+  <way id='-7883' visible='true' version='1'>
+    <nd ref='-307' />
+    <nd ref='-4551' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808071' />
+  </way>
+  <way id='-7881' action='modify' visible='true'>
+    <nd ref='-4493' />
+    <nd ref='-4549' />
+    <nd ref='-4517' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484541' />
+  </way>
+  <way id='-7879' action='modify' visible='true'>
+    <nd ref='-4469' />
+    <nd ref='-4547' />
+    <nd ref='-4493' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484540' />
+  </way>
+  <way id='-7877' action='modify' visible='true'>
+    <nd ref='-4351' />
+    <nd ref='-4545' />
+    <nd ref='-4469' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484539' />
+  </way>
+  <way id='-7875' action='modify' visible='true'>
+    <nd ref='-4375' />
+    <nd ref='-4543' />
+    <nd ref='-4403' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484538' />
+  </way>
+  <way id='-7873' action='modify' visible='true'>
+    <nd ref='-4363' />
+    <nd ref='-4541' />
+    <nd ref='-4375' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484537' />
+  </way>
+  <way id='-7871' action='modify' visible='true'>
+    <nd ref='-4359' />
+    <nd ref='-4539' />
+    <nd ref='-4363' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484536' />
+  </way>
+  <way id='-7869' action='modify' visible='true'>
+    <nd ref='-4347' />
+    <nd ref='-4537' />
+    <nd ref='-4359' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484535' />
+  </way>
+  <way id='-7867' action='modify' visible='true'>
+    <nd ref='-4517' />
+    <nd ref='-4533' />
+    <nd ref='-4535' />
+    <nd ref='-4403' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484534' />
+  </way>
+  <way id='-7865' action='modify' visible='true'>
+    <nd ref='-4517' />
+    <nd ref='-4531' />
+    <nd ref='-4501' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484533' />
+  </way>
+  <way id='-7863' action='modify' visible='true'>
+    <nd ref='-4523' />
+    <nd ref='-4525' />
+    <nd ref='-4527' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808070' />
+  </way>
+  <way id='-7861' visible='true' version='1'>
+    <nd ref='-4519' />
+    <nd ref='-4521' />
+    <nd ref='-4523' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808069' />
+  </way>
+  <way id='-7859' visible='true' version='1'>
+    <nd ref='-867' />
+    <nd ref='-4519' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='325643952' />
+  </way>
+  <way id='-7857' action='modify' visible='true'>
+    <nd ref='-4507' />
+    <nd ref='-4513' />
+    <nd ref='-4515' />
+    <nd ref='-4517' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484531' />
+  </way>
+  <way id='-7855' action='modify' visible='true'>
+    <nd ref='-867' />
+    <nd ref='-4511' />
+    <nd ref='-4507' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484530' />
+  </way>
+  <way id='-7853' action='modify' visible='true'>
+    <nd ref='-863' />
+    <nd ref='-4509' />
+    <nd ref='-4503' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484529' />
+  </way>
+  <way id='-7851' action='modify' visible='true'>
+    <nd ref='-4503' />
+    <nd ref='-4505' />
+    <nd ref='-4507' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484528' />
+  </way>
+  <way id='-7849' visible='true' version='1'>
+    <nd ref='-4501' />
+    <nd ref='-4503' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484527' />
+  </way>
+  <way id='-7847' action='modify' visible='true'>
+    <nd ref='-4485' />
+    <nd ref='-4497' />
+    <nd ref='-4499' />
+    <nd ref='-4501' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484526' />
+  </way>
+  <way id='-7845' action='modify' visible='true'>
+    <nd ref='-857' />
+    <nd ref='-4495' />
+    <nd ref='-4485' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484525' />
+  </way>
+  <way id='-7843' visible='true' version='1'>
+    <nd ref='-4475' />
+    <nd ref='-4491' />
+    <nd ref='-4493' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484524' />
+  </way>
+  <way id='-7841' action='modify' visible='true'>
+    <nd ref='-4481' />
+    <nd ref='-4489' />
+    <nd ref='-4475' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484523' />
+  </way>
+  <way id='-7839' action='modify' visible='true'>
+    <nd ref='-853' />
+    <nd ref='-4487' />
+    <nd ref='-4481' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484522' />
+  </way>
+  <way id='-7837' action='modify' visible='true'>
+    <nd ref='-4481' />
+    <nd ref='-4483' />
+    <nd ref='-4485' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484521' />
+  </way>
+  <way id='-7835' action='modify' visible='true'>
+    <nd ref='-4461' />
+    <nd ref='-4479' />
+    <nd ref='-4481' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484520' />
+  </way>
+  <way id='-7833' action='modify' visible='true'>
+    <nd ref='-4475' />
+    <nd ref='-4477' />
+    <nd ref='-4465' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484519' />
+  </way>
+  <way id='-7831' action='modify' visible='true'>
+    <nd ref='-4457' />
+    <nd ref='-4471' />
+    <nd ref='-4473' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484518' />
+  </way>
+  <way id='-7829' visible='true' version='1'>
+    <nd ref='-4465' />
+    <nd ref='-4467' />
+    <nd ref='-4469' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484517' />
+  </way>
+  <way id='-7827' action='modify' visible='true'>
+    <nd ref='-4461' />
+    <nd ref='-4463' />
+    <nd ref='-4465' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484516' />
+  </way>
+  <way id='-7825' action='modify' visible='true'>
+    <nd ref='-4457' />
+    <nd ref='-4459' />
+    <nd ref='-4461' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484515' />
+  </way>
+  <way id='-7823' action='modify' visible='true'>
+    <nd ref='-849' />
+    <nd ref='-4455' />
+    <nd ref='-4457' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484514' />
+  </way>
+  <way id='-7821' action='modify' visible='true'>
+    <nd ref='-4451' />
+    <nd ref='-4453' />
+    <nd ref='-889' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808068' />
+  </way>
+  <way id='-7819' action='modify' visible='true'>
+    <nd ref='-875' />
+    <nd ref='-4447' />
+    <nd ref='-4449' />
+    <nd ref='-4451' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808067' />
+  </way>
+  <way id='-7817' visible='true' version='1'>
+    <nd ref='-4445' />
+    <nd ref='-4353' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808066' />
+  </way>
+  <way id='-7815' visible='true' version='1'>
+    <nd ref='-833' />
+    <nd ref='-4445' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808065' />
+  </way>
+  <way id='-7813' action='modify' visible='true'>
+    <nd ref='-4429' />
+    <nd ref='-4443' />
+    <nd ref='-4345' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484511' />
+  </way>
+  <way id='-7811' visible='true' version='1'>
+    <nd ref='-4331' />
+    <nd ref='-4429' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484510' />
+  </way>
+  <way id='-7809' visible='true' version='1'>
+    <nd ref='-4439' />
+    <nd ref='-4441' />
+    <nd ref='-4331' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808064' />
+  </way>
+  <way id='-7807' visible='true' version='1'>
+    <nd ref='-825' />
+    <nd ref='-4437' />
+    <nd ref='-4439' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808063' />
+  </way>
+  <way id='-7805' visible='true' version='1'>
+    <nd ref='-4435' />
+    <nd ref='-829' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808062' />
+  </way>
+  <way id='-7803' action='modify' visible='true'>
+    <nd ref='-4429' />
+    <nd ref='-4431' />
+    <nd ref='-4433' />
+    <nd ref='-4435' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808061' />
+  </way>
+  <way id='-7801' action='modify' visible='true'>
+    <nd ref='-4401' />
+    <nd ref='-4425' />
+    <nd ref='-4427' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='320484507' />
+  </way>
+  <way id='-7799' action='modify' visible='true'>
+    <nd ref='-4417' />
+    <nd ref='-4419' />
+    <nd ref='-4421' />
+    <nd ref='-4423' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484506' />
+  </way>
+  <way id='-7797' action='modify' visible='true'>
+    <nd ref='-4413' />
+    <nd ref='-4415' />
+    <nd ref='-4417' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484505' />
+  </way>
+  <way id='-7795' action='modify' visible='true'>
+    <nd ref='-4401' />
+    <nd ref='-4411' />
+    <nd ref='-4413' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484504' />
+  </way>
+  <way id='-7793' action='modify' visible='true'>
+    <nd ref='-4407' />
+    <nd ref='-4409' />
+    <nd ref='-4397' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='590651793' />
+  </way>
+  <way id='-7791' action='modify' visible='true'>
+    <nd ref='-4403' />
+    <nd ref='-4405' />
+    <nd ref='-4407' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='590651792' />
+  </way>
+  <way id='-7789' visible='true' version='1'>
+    <nd ref='-95' />
+    <nd ref='-4401' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484502' />
+  </way>
+  <way id='-7787' action='modify' visible='true'>
+    <nd ref='-4397' />
+    <nd ref='-4399' />
+    <nd ref='-95' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484501' />
+  </way>
+  <way id='-7785' action='modify' visible='true'>
+    <nd ref='-87' />
+    <nd ref='-4393' />
+    <nd ref='-4395' />
+    <nd ref='-4397' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484500' />
+  </way>
+  <way id='-7783' action='modify' visible='true'>
+    <nd ref='-4387' />
+    <nd ref='-4389' />
+    <nd ref='-4391' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484499' />
+  </way>
+  <way id='-7781' action='modify' visible='true'>
+    <nd ref='-4383' />
+    <nd ref='-4385' />
+    <nd ref='-4387' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484498' />
+  </way>
+  <way id='-7779' action='modify' visible='true'>
+    <nd ref='-91' />
+    <nd ref='-4381' />
+    <nd ref='-4383' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484497' />
+  </way>
+  <way id='-7777' action='modify' visible='true'>
+    <nd ref='-85' />
+    <nd ref='-4377' />
+    <nd ref='-4379' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484496' />
+  </way>
+  <way id='-7775' action='modify' visible='true'>
+    <nd ref='-81' />
+    <nd ref='-4373' />
+    <nd ref='-4375' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484495' />
+  </way>
+  <way id='-7773' action='modify' visible='true'>
+    <nd ref='-79' />
+    <nd ref='-4369' />
+    <nd ref='-4371' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484494' />
+  </way>
+  <way id='-7771' action='modify' visible='true'>
+    <nd ref='-75' />
+    <nd ref='-4365' />
+    <nd ref='-4367' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484493' />
+  </way>
+  <way id='-7769' action='modify' visible='true'>
+    <nd ref='-75' />
+    <nd ref='-4361' />
+    <nd ref='-4363' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484492' />
+  </way>
+  <way id='-7767' action='modify' visible='true'>
+    <nd ref='-71' />
+    <nd ref='-4357' />
+    <nd ref='-4359' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484491' />
+  </way>
+  <way id='-7765' visible='true' version='1'>
+    <nd ref='-4353' />
+    <nd ref='-4355' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484490' />
+  </way>
+  <way id='-7763' visible='true' version='1'>
+    <nd ref='-4351' />
+    <nd ref='-4353' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484489' />
+  </way>
+  <way id='-7761' action='modify' visible='true'>
+    <nd ref='-4347' />
+    <nd ref='-4349' />
+    <nd ref='-4351' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484488' />
+  </way>
+  <way id='-7759' visible='true' version='1'>
+    <nd ref='-4345' />
+    <nd ref='-4347' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484487' />
+  </way>
+  <way id='-7757' action='modify' visible='true'>
+    <nd ref='-67' />
+    <nd ref='-4343' />
+    <nd ref='-4345' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484486' />
+  </way>
+  <way id='-7755' action='modify' visible='true'>
+    <nd ref='-4339' />
+    <nd ref='-4341' />
+    <nd ref='-67' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484485' />
+  </way>
+  <way id='-7753' action='modify' visible='true'>
+    <nd ref='-63' />
+    <nd ref='-4333' />
+    <nd ref='-4335' />
+    <nd ref='-4337' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484484' />
+  </way>
+  <way id='-7751' action='modify' visible='true'>
+    <nd ref='-4327' />
+    <nd ref='-4329' />
+    <nd ref='-4331' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808060' />
+  </way>
+  <way id='-7749' visible='true' version='1'>
+    <nd ref='-59' />
+    <nd ref='-4327' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808059' />
+  </way>
+  <way id='-7747' action='modify' visible='true'>
+    <nd ref='-4321' />
+    <nd ref='-4323' />
+    <nd ref='-4325' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808058' />
+  </way>
+  <way id='-7745' visible='true' version='1'>
+    <nd ref='-819' />
+    <nd ref='-4321' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808057' />
+  </way>
+  <way id='-7743' action='modify' visible='true'>
+    <nd ref='-3939' />
+    <nd ref='-4315' />
+    <nd ref='-4317' />
+    <nd ref='-4319' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-05-09' />
+    <tag k='nvdb:id' v='320484481' />
+  </way>
+  <way id='-7509' action='modify' visible='true'>
+    <nd ref='-3933' />
+    <nd ref='-3935' />
+    <nd ref='-3937' />
+    <nd ref='-3939' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808046' />
+  </way>
+  <way id='-7507' visible='true' version='1'>
+    <nd ref='-859' />
+    <nd ref='-3933' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808045' />
+  </way>
+  <way id='-7459' visible='true' version='1'>
+    <nd ref='-949' />
+    <nd ref='-3875' />
+    <nd ref='-3873' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='323096056' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-7457' visible='true' version='1'>
+    <nd ref='-3873' />
+    <nd ref='-3123' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='323096055' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-7447' action='modify' visible='true'>
+    <nd ref='-447' />
+    <nd ref='-3861' />
+    <nd ref='-3143' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gauselveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145259296' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-7269' action='modify' visible='true'>
+    <nd ref='-3131' />
+    <nd ref='-3637' />
+    <nd ref='-949' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145255512' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-7259' action='modify' visible='true'>
+    <nd ref='-3135' />
+    <nd ref='-3625' />
+    <nd ref='-447' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gauselveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145255504' />
+    <tag k='oneway' v='yes' />
+  </way>
+  <way id='-6981' action='modify' visible='true' version='1'>
+    <nd ref='-493' />
+    <nd ref='-3165' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238288' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6979' visible='true' version='1'>
+    <nd ref='-2429' />
+    <nd ref='-3163' />
+    <nd ref='-493' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238287' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6977' visible='true' version='1'>
+    <nd ref='-1579' />
+    <nd ref='-3161' />
+    <nd ref='-2429' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238286' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6975' visible='true' version='1'>
+    <nd ref='-1885' />
+    <nd ref='-3159' />
+    <nd ref='-1579' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238285' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6973' visible='true' version='1'>
+    <nd ref='-1513' />
+    <nd ref='-3157' />
+    <nd ref='-1885' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238284' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6971' visible='true' version='1'>
+    <nd ref='-1311' />
+    <nd ref='-3155' />
+    <nd ref='-1513' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238283' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6969' visible='true' version='1'>
+    <nd ref='-797' />
+    <nd ref='-3153' />
+    <nd ref='-1311' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238282' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6967' visible='true' version='1'>
+    <nd ref='-2735' />
+    <nd ref='-3151' />
+    <nd ref='-797' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238281' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6965' visible='true' version='1'>
+    <nd ref='-1127' />
+    <nd ref='-3149' />
+    <nd ref='-2735' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238280' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6963' visible='true' version='1'>
+    <nd ref='-983' />
+    <nd ref='-3147' />
+    <nd ref='-1127' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238279' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6961' visible='true' version='1'>
+    <nd ref='-3143' />
+    <nd ref='-3145' />
+    <nd ref='-983' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238278' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6959' visible='true' version='1'>
+    <nd ref='-3139' />
+    <nd ref='-3141' />
+    <nd ref='-3143' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238277' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6957' visible='true' version='1'>
+    <nd ref='-3135' />
+    <nd ref='-3137' />
+    <nd ref='-3139' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238276' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6955' visible='true' version='1'>
+    <nd ref='-3131' />
+    <nd ref='-3133' />
+    <nd ref='-3135' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238275' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6953' visible='true' version='1'>
+    <nd ref='-3127' />
+    <nd ref='-3129' />
+    <nd ref='-3131' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238274' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6951' visible='true' version='1'>
+    <nd ref='-3123' />
+    <nd ref='-3125' />
+    <nd ref='-3127' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238273' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6949' action='modify' visible='true'>
+    <nd ref='-3121' />
+    <nd ref='-3123' />
+    <tag k='highway' v='secondary' />
+    <tag k='maxspeed' v='50' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145238272' />
+    <tag k='ref' v='35' />
+  </way>
+  <way id='-6815' action='modify' visible='true' version='1'>
+    <nd ref='-5493' />
+    <nd ref='-2869' />
+    <tag k='highway' v='track' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323096029' />
+  </way>
+  <way id='-6813' action='modify' visible='true'>
+    <nd ref='-1679' />
+    <nd ref='-2867' />
+    <nd ref='-5493' />
+    <tag k='highway' v='track' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484457' />
+  </way>
+  <way id='-6811' visible='true' version='1'>
+    <nd ref='-2865' />
+    <nd ref='-1679' />
+    <tag k='highway' v='track' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484456' />
+  </way>
+  <way id='-6809' action='modify' visible='true'>
+    <nd ref='-2861' />
+    <nd ref='-2863' />
+    <nd ref='-2865' />
+    <tag k='highway' v='track' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484455' />
+  </way>
+  <way id='-6807' visible='true' version='1'>
+    <nd ref='-5477' />
+    <nd ref='-2859' />
+    <nd ref='-2861' />
+    <tag k='highway' v='track' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484454' />
+  </way>
+  <way id='-6805' action='modify' visible='true'>
+    <nd ref='-503' />
+    <nd ref='-2855' />
+    <nd ref='-2857' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145193994' />
+  </way>
+  <way id='-6799' action='modify' visible='true'>
+    <nd ref='-1137' />
+    <nd ref='-2845' />
+    <nd ref='-2847' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193578' />
+  </way>
+  <way id='-6797' action='modify' visible='true'>
+    <nd ref='-1133' />
+    <nd ref='-2837' />
+    <nd ref='-2839' />
+    <nd ref='-2841' />
+    <nd ref='-2843' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193577' />
+  </way>
+  <way id='-6783' action='modify' visible='true'>
+    <nd ref='-1735' />
+    <nd ref='-2801' />
+    <nd ref='-2803' />
+    <nd ref='-2805' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145193561' />
+  </way>
+  <way id='-6781' action='modify' visible='true'>
+    <nd ref='-431' />
+    <nd ref='-2795' />
+    <nd ref='-2797' />
+    <nd ref='-2799' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145193560' />
+  </way>
+  <way id='-6779' action='modify' visible='true'>
+    <nd ref='-459' />
+    <nd ref='-2791' />
+    <nd ref='-2793' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145193559' />
+  </way>
+  <way id='-6777' action='modify' visible='true'>
+    <nd ref='-415' />
+    <nd ref='-2787' />
+    <nd ref='-2789' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145193558' />
+  </way>
+  <way id='-6775' action='modify' visible='true'>
+    <nd ref='-2781' />
+    <nd ref='-2783' />
+    <nd ref='-2785' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808044' />
+  </way>
+  <way id='-6773' visible='true' version='1'>
+    <nd ref='-751' />
+    <nd ref='-2781' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808043' />
+  </way>
+  <way id='-6771' action='modify' visible='true'>
+    <nd ref='-487' />
+    <nd ref='-2777' />
+    <nd ref='-2779' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193556' />
+  </way>
+  <way id='-6769' action='modify' visible='true'>
+    <nd ref='-483' />
+    <nd ref='-2771' />
+    <nd ref='-2773' />
+    <nd ref='-2775' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193555' />
+  </way>
+  <way id='-6767' action='modify' visible='true'>
+    <nd ref='-1749' />
+    <nd ref='-2767' />
+    <nd ref='-2769' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193554' />
+  </way>
+  <way id='-6765' action='modify' visible='true'>
+    <nd ref='-1003' />
+    <nd ref='-2763' />
+    <nd ref='-2765' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145193553' />
+  </way>
+  <way id='-6763' action='modify' visible='true'>
+    <nd ref='-335' />
+    <nd ref='-2761' />
+    <nd ref='-275' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145193549' />
+  </way>
+  <way id='-6757' action='modify' visible='true'>
+    <nd ref='-393' />
+    <nd ref='-2749' />
+    <nd ref='-2751' />
+    <nd ref='-2753' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193545' />
+  </way>
+  <way id='-6755' action='modify' visible='true'>
+    <nd ref='-899' />
+    <nd ref='-2745' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145193544' />
+  </way>
+  <way id='-6751' action='modify' visible='true'>
+    <nd ref='-2735' />
+    <nd ref='-2737' />
+    <nd ref='-2739' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193542' />
+  </way>
+  <way id='-6669' action='modify' visible='true'>
+    <nd ref='-1007' />
+    <nd ref='-2531' />
+    <nd ref='-2533' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193345' />
+  </way>
+  <way id='-6651' action='modify' visible='true'>
+    <nd ref='-1753' />
+    <nd ref='-2497' />
+    <nd ref='-2499' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193130' />
+  </way>
+  <way id='-6643' action='modify' visible='true'>
+    <nd ref='-31' />
+    <nd ref='-2477' />
+    <nd ref='-2467' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193126' />
+  </way>
+  <way id='-6641' action='modify' visible='true'>
+    <nd ref='-2467' />
+    <nd ref='-2473' />
+    <nd ref='-2475' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145193125' />
+  </way>
+  <way id='-6639' action='modify' visible='true'>
+    <nd ref='-2467' />
+    <nd ref='-2469' />
+    <nd ref='-2471' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1995-05-26' />
+    <tag k='nvdb:id' v='145193124' />
+  </way>
+  <way id='-6631' action='modify' visible='true'>
+    <nd ref='-1623' />
+    <nd ref='-2453' />
+    <nd ref='-2455' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193109' />
+  </way>
+  <way id='-6629' action='modify' visible='true'>
+    <nd ref='-479' />
+    <nd ref='-2449' />
+    <nd ref='-2451' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193108' />
+  </way>
+  <way id='-6627' visible='true' version='1'>
+    <nd ref='-313' />
+    <nd ref='-2445' />
+    <nd ref='-2447' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145193107' />
+  </way>
+  <way id='-6625' action='modify' visible='true'>
+    <nd ref='-253' />
+    <nd ref='-2441' />
+    <nd ref='-2443' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145193106' />
+  </way>
+  <way id='-6619' action='modify' visible='true'>
+    <nd ref='-975' />
+    <nd ref='-2431' />
+    <nd ref='-5507' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193098' />
+  </way>
+  <way id='-6617' visible='true' version='1'>
+    <nd ref='-5507' />
+    <nd ref='-2427' />
+    <nd ref='-2429' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145193095' />
+  </way>
+  <way id='-6615' action='modify' visible='true'>
+    <nd ref='-2421' />
+    <nd ref='-2423' />
+    <nd ref='-2425' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='323096003' />
+  </way>
+  <way id='-6613' action='modify' visible='true'>
+    <nd ref='-2419' />
+    <nd ref='-2421' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='323096002' />
+  </way>
+  <way id='-6597' action='modify' visible='true'>
+    <nd ref='-103' />
+    <nd ref='-2375' />
+    <nd ref='-2377' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1991-01-03' />
+    <tag k='nvdb:id' v='145192999' />
+  </way>
+  <way id='-6595' visible='true' version='1'>
+    <nd ref='-1439' />
+    <nd ref='-2371' />
+    <nd ref='-2373' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1991-01-03' />
+    <tag k='nvdb:id' v='145192998' />
+  </way>
+  <way id='-6593' action='modify' visible='true'>
+    <nd ref='-1445' />
+    <nd ref='-2367' />
+    <nd ref='-2369' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1993-07-13' />
+    <tag k='nvdb:id' v='145192997' />
+  </way>
+  <way id='-6591' action='modify' visible='true'>
+    <nd ref='-401' />
+    <nd ref='-2363' />
+    <nd ref='-2365' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192996' />
+  </way>
+  <way id='-6567' action='modify' visible='true'>
+    <nd ref='-2309' />
+    <nd ref='-2311' />
+    <nd ref='-2313' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1991-01-03' />
+    <tag k='nvdb:id' v='320484428' />
+  </way>
+  <way id='-6565' action='modify' visible='true'>
+    <nd ref='-107' />
+    <nd ref='-2303' />
+    <nd ref='-2305' />
+    <nd ref='-2307' />
+    <nd ref='-2309' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1991-01-03' />
+    <tag k='nvdb:id' v='320484427' />
+  </way>
+  <way id='-6563' action='modify' visible='true'>
+    <nd ref='-1635' />
+    <nd ref='-2299' />
+    <nd ref='-2301' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192975' />
+  </way>
+  <way id='-6561' action='modify' visible='true'>
+    <nd ref='-283' />
+    <nd ref='-2297' />
+    <nd ref='-769' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192974' />
+  </way>
+  <way id='-6559' action='modify' visible='true'>
+    <nd ref='-769' />
+    <nd ref='-2293' />
+    <nd ref='-2295' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192973' />
+  </way>
+  <way id='-6557' action='modify' visible='true'>
+    <nd ref='-1119' />
+    <nd ref='-2289' />
+    <nd ref='-2291' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192972' />
+  </way>
+  <way id='-6555' action='modify' visible='true'>
+    <nd ref='-475' />
+    <nd ref='-2285' />
+    <nd ref='-2287' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192971' />
+  </way>
+  <way id='-6553' action='modify' visible='true'>
+    <nd ref='-475' />
+    <nd ref='-2281' />
+    <nd ref='-2283' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='1992-04-26' />
+    <tag k='nvdb:id' v='145192970' />
+  </way>
+  <way id='-6499' action='modify' visible='true'>
+    <nd ref='-989' />
+    <nd ref='-2161' />
+    <nd ref='-2143' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2001-05-28' />
+    <tag k='nvdb:id' v='145192749' />
+  </way>
+  <way id='-6497' action='modify' visible='true'>
+    <nd ref='-2143' />
+    <nd ref='-2155' />
+    <nd ref='-2157' />
+    <nd ref='-2159' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2001-05-28' />
+    <tag k='nvdb:id' v='145192748' />
+  </way>
+  <way id='-6495' action='modify' visible='true'>
+    <nd ref='-451' />
+    <nd ref='-2153' />
+    <nd ref='-2137' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-05-09' />
+    <tag k='nvdb:id' v='145192747' />
+  </way>
+  <way id='-6493' action='modify' visible='true'>
+    <nd ref='-2137' />
+    <nd ref='-2149' />
+    <nd ref='-2151' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-05-09' />
+    <tag k='nvdb:id' v='145192746' />
+  </way>
+  <way id='-6491' action='modify' visible='true'>
+    <nd ref='-2143' />
+    <nd ref='-2145' />
+    <nd ref='-2147' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2001-05-28' />
+    <tag k='nvdb:id' v='145192745' />
+  </way>
+  <way id='-6489' action='modify' visible='true'>
+    <nd ref='-2137' />
+    <nd ref='-2139' />
+    <nd ref='-2141' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-05-09' />
+    <tag k='nvdb:id' v='145192744' />
+  </way>
+  <way id='-6415' action='modify' visible='true'>
+    <nd ref='-1979' />
+    <nd ref='-1981' />
+    <nd ref='-1983' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323095993' />
+  </way>
+  <way id='-6413' visible='true' version='1'>
+    <nd ref='-837' />
+    <nd ref='-1977' />
+    <nd ref='-1979' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='323095992' />
+  </way>
+  <way id='-6375' action='modify' visible='true'>
+    <nd ref='-419' />
+    <nd ref='-1887' />
+    <nd ref='-1889' />
+    <nd ref='-1891' />
+    <nd ref='-1893' />
+    <nd ref='-1895' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2004-09-29' />
+    <tag k='nvdb:id' v='145192587' />
+  </way>
+  <way id='-6373' action='modify' visible='true'>
+    <nd ref='-1877' />
+    <nd ref='-1879' />
+    <nd ref='-1881' />
+    <nd ref='-1883' />
+    <nd ref='-1885' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2004-09-29' />
+    <tag k='nvdb:id' v='589808036' />
+  </way>
+  <way id='-6371' visible='true' version='1'>
+    <nd ref='-1313' />
+    <nd ref='-1877' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2004-09-29' />
+    <tag k='nvdb:id' v='589808035' />
+  </way>
+  <way id='-6361' action='modify' visible='true'>
+    <nd ref='-1853' />
+    <nd ref='-1855' />
+    <nd ref='-1857' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2004-09-29' />
+    <tag k='nvdb:id' v='145192562' />
+  </way>
+  <way id='-6359' action='modify' visible='true'>
+    <nd ref='-1851' />
+    <nd ref='-1853' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='nvdb:date' v='2004-09-29' />
+    <tag k='nvdb:id' v='145192561' />
+  </way>
+  <way id='-6321' action='modify' visible='true'>
+    <nd ref='-1763' />
+    <nd ref='-1765' />
+    <nd ref='-1767' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Symreveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='320484406' />
+  </way>
+  <way id='-6319' action='modify' visible='true'>
+    <nd ref='-1105' />
+    <nd ref='-1761' />
+    <nd ref='-1763' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Symreveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='320484405' />
+  </way>
+  <way id='-6317' action='modify' visible='true'>
+    <nd ref='-1753' />
+    <nd ref='-1755' />
+    <nd ref='-1757' />
+    <nd ref='-1759' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Sponveien' />
+    <tag k='nvdb:date' v='1995-05-26' />
+    <tag k='nvdb:id' v='145192392' />
+  </way>
+  <way id='-6315' action='modify' visible='true'>
+    <nd ref='-1749' />
+    <nd ref='-1751' />
+    <nd ref='-1753' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Sponveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192391' />
+  </way>
+  <way id='-6313' action='modify' visible='true'>
+    <nd ref='-405' />
+    <nd ref='-1747' />
+    <nd ref='-1749' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Sponveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192390' />
+  </way>
+  <way id='-6309' action='modify' visible='true'>
+    <nd ref='-1735' />
+    <nd ref='-1737' />
+    <nd ref='-1739' />
+    <nd ref='-1741' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Solfallsveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192382' />
+  </way>
+  <way id='-6307' action='modify' visible='true'>
+    <nd ref='-435' />
+    <nd ref='-1733' />
+    <nd ref='-1735' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Solfallsveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192381' />
+  </way>
+  <way id='-6293' action='modify' visible='true'>
+    <nd ref='-961' />
+    <nd ref='-1705' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192340' />
+  </way>
+  <way id='-6283' action='modify' visible='true'>
+    <nd ref='-1323' />
+    <nd ref='-1685' />
+    <nd ref='-1687' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Sandboveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192299' />
+  </way>
+  <way id='-6281' action='modify' visible='true'>
+    <nd ref='-1673' />
+    <nd ref='-1681' />
+    <nd ref='-1683' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Røsslyngveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192276' />
+  </way>
+  <way id='-6279' action='modify' visible='true'>
+    <nd ref='-1673' />
+    <nd ref='-1675' />
+    <nd ref='-1677' />
+    <nd ref='-1679' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Røsslyngveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192275' />
+  </way>
+  <way id='-6277' action='modify' visible='true'>
+    <nd ref='-1669' />
+    <nd ref='-1671' />
+    <nd ref='-1673' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Røsslyngveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808034' />
+  </way>
+  <way id='-6275' visible='true' version='1'>
+    <nd ref='-1665' />
+    <nd ref='-1667' />
+    <nd ref='-1669' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Røsslyngveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808033' />
+  </way>
+  <way id='-6273' action='modify' visible='true'>
+    <nd ref='-1661' />
+    <nd ref='-1663' />
+    <nd ref='-1665' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Røsslyngveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192273' />
+  </way>
+  <way id='-6271' visible='true' version='1'>
+    <nd ref='-1109' />
+    <nd ref='-1661' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Røsslyngveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192272' />
+  </way>
+  <way id='-6269' action='modify' visible='true'>
+    <nd ref='-997' />
+    <nd ref='-1655' />
+    <nd ref='-1657' />
+    <nd ref='-1659' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145192269' />
+  </way>
+  <way id='-6263' action='modify' visible='true'>
+    <nd ref='-1635' />
+    <nd ref='-1637' />
+    <nd ref='-1639' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Nytunveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192232' />
+  </way>
+  <way id='-6261' action='modify' visible='true'>
+    <nd ref='-427' />
+    <nd ref='-1633' />
+    <nd ref='-1635' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Nytunveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192231' />
+  </way>
+  <way id='-6259' action='modify' visible='true'>
+    <nd ref='-981' />
+    <nd ref='-1629' />
+    <nd ref='-1631' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192221' />
+  </way>
+  <way id='-6257' action='modify' visible='true'>
+    <nd ref='-1623' />
+    <nd ref='-1625' />
+    <nd ref='-1627' />
+    <nd ref='-993' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrvangveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192212' />
+  </way>
+  <way id='-6255' action='modify' visible='true'>
+    <nd ref='-1319' />
+    <nd ref='-1619' />
+    <nd ref='-1621' />
+    <nd ref='-1623' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrvangveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192211' />
+  </way>
+  <way id='-6253' action='modify' visible='true'>
+    <nd ref='-943' />
+    <nd ref='-1613' />
+    <nd ref='-1615' />
+    <nd ref='-1617' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrstubben' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192210' />
+  </way>
+  <way id='-6251' action='modify' visible='true'>
+    <nd ref='-947' />
+    <nd ref='-1609' />
+    <nd ref='-1611' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrstubben' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145192209' />
+  </way>
+  <way id='-6241' action='modify' visible='true'>
+    <nd ref='-1579' />
+    <nd ref='-1581' />
+    <nd ref='-1583' />
+    <nd ref='-1585' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Løvåsveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192194' />
+  </way>
+  <way id='-6235' action='modify' visible='true'>
+    <nd ref='-397' />
+    <nd ref='-1561' />
+    <nd ref='-1563' />
+    <nd ref='-1565' />
+    <nd ref='-1567' />
+    <nd ref='-1569' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lavettveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145192164' />
+  </way>
+  <way id='-6221' action='modify' visible='true'>
+    <nd ref='-1515' />
+    <nd ref='-1517' />
+    <nd ref='-1519' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Hoelveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754636' />
+  </way>
+  <way id='-6219' visible='true' version='1'>
+    <nd ref='-1513' />
+    <nd ref='-1515' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Hoelveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754635' />
+  </way>
+  <way id='-6205' action='modify' visible='true'>
+    <nd ref='-303' />
+    <nd ref='-1475' />
+    <nd ref='-1477' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145191983' />
+  </way>
+  <way id='-6191' visible='true' version='1'>
+    <nd ref='-1445' />
+    <nd ref='-1447' />
+    <nd ref='-1449' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145191883' />
+  </way>
+  <way id='-6189' action='modify' visible='true'>
+    <nd ref='-1439' />
+    <nd ref='-1441' />
+    <nd ref='-1443' />
+    <nd ref='-1445' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145191882' />
+  </way>
+  <way id='-6187' action='modify' visible='true'>
+    <nd ref='-111' />
+    <nd ref='-1437' />
+    <nd ref='-1439' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145191881' />
+  </way>
+  <way id='-6137' visible='true' version='1'>
+    <nd ref='-1329' />
+    <nd ref='-387' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Vilbergveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808032' />
+  </way>
+  <way id='-6135' action='modify' visible='true'>
+    <nd ref='-1323' />
+    <nd ref='-1325' />
+    <nd ref='-1327' />
+    <nd ref='-1329' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Vilbergveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808031' />
+  </way>
+  <way id='-6133' visible='true' version='1'>
+    <nd ref='-1045' />
+    <nd ref='-1323' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Vilbergveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145170013' />
+  </way>
+  <way id='-6131' action='modify' visible='true'>
+    <nd ref='-1319' />
+    <nd ref='-1321' />
+    <nd ref='-1045' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Vilbergveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145170012' />
+  </way>
+  <way id='-6129' action='modify' visible='true'>
+    <nd ref='-1313' />
+    <nd ref='-1315' />
+    <nd ref='-1317' />
+    <nd ref='-1319' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Vilbergveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145170011' />
+  </way>
+  <way id='-6127' visible='true' version='1'>
+    <nd ref='-1311' />
+    <nd ref='-1313' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Vilbergveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145170010' />
+  </way>
+  <way id='-6041' action='modify' visible='true'>
+    <nd ref='-1137' />
+    <nd ref='-1139' />
+    <nd ref='-961' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169760' />
+  </way>
+  <way id='-6039' action='modify' visible='true'>
+    <nd ref='-1133' />
+    <nd ref='-1135' />
+    <nd ref='-1137' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169759' />
+  </way>
+  <way id='-6037' action='modify' visible='true'>
+    <nd ref='-1129' />
+    <nd ref='-1131' />
+    <nd ref='-1133' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754628' />
+  </way>
+  <way id='-6035' visible='true' version='1'>
+    <nd ref='-1127' />
+    <nd ref='-1129' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754627' />
+  </way>
+  <way id='-6033' action='modify' visible='true'>
+    <nd ref='-1119' />
+    <nd ref='-1121' />
+    <nd ref='-1123' />
+    <nd ref='-1125' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogsnarveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169756' />
+  </way>
+  <way id='-6031' action='modify' visible='true'>
+    <nd ref='-775' />
+    <nd ref='-1115' />
+    <nd ref='-1117' />
+    <nd ref='-1119' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogsnarveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169755' />
+  </way>
+  <way id='-6029' action='modify' visible='true'>
+    <nd ref='-1109' />
+    <nd ref='-1111' />
+    <nd ref='-1113' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogsnarveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808030' />
+  </way>
+  <way id='-6027' action='modify' visible='true'>
+    <nd ref='-1105' />
+    <nd ref='-1107' />
+    <nd ref='-1109' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogsnarveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169753' />
+  </way>
+  <way id='-6025' action='modify' visible='true'>
+    <nd ref='-1101' />
+    <nd ref='-1103' />
+    <nd ref='-1105' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Skogsnarveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169752' />
+  </way>
+  <way id='-5997' visible='true' version='1'>
+    <nd ref='-1043' />
+    <nd ref='-1045' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Sandboveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808029' />
+  </way>
+  <way id='-5995' action='modify' visible='true'>
+    <nd ref='-975' />
+    <nd ref='-1037' />
+    <nd ref='-1039' />
+    <nd ref='-1041' />
+    <nd ref='-1043' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Sandboveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808028' />
+  </way>
+  <way id='-5981' action='modify' visible='true'>
+    <nd ref='-1007' />
+    <nd ref='-1009' />
+    <nd ref='-475' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169682' />
+  </way>
+  <way id='-5979' action='modify' visible='true'>
+    <nd ref='-1003' />
+    <nd ref='-1005' />
+    <nd ref='-1007' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169681' />
+  </way>
+  <way id='-5977' action='modify' visible='true'>
+    <nd ref='-411' />
+    <nd ref='-1001' />
+    <nd ref='-1003' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169680' />
+  </way>
+  <way id='-5975' action='modify' visible='true'>
+    <nd ref='-997' />
+    <nd ref='-999' />
+    <nd ref='-411' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169679' />
+  </way>
+  <way id='-5973' action='modify' visible='true'>
+    <nd ref='-993' />
+    <nd ref='-995' />
+    <nd ref='-997' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169678' />
+  </way>
+  <way id='-5971' action='modify' visible='true'>
+    <nd ref='-989' />
+    <nd ref='-991' />
+    <nd ref='-993' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169677' />
+  </way>
+  <way id='-5969' visible='true' version='1'>
+    <nd ref='-985' />
+    <nd ref='-987' />
+    <nd ref='-989' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808027' />
+  </way>
+  <way id='-5967' visible='true' version='1'>
+    <nd ref='-983' />
+    <nd ref='-985' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Rosenlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808026' />
+  </way>
+  <way id='-5965' action='modify' visible='true'>
+    <nd ref='-975' />
+    <nd ref='-977' />
+    <nd ref='-979' />
+    <nd ref='-981' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Nordbyveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169576' />
+  </way>
+  <way id='-5957' action='modify' visible='true'>
+    <nd ref='-961' />
+    <nd ref='-963' />
+    <nd ref='-465' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Måsaveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169567' />
+  </way>
+  <way id='-5953' action='modify' visible='true'>
+    <nd ref='-473' />
+    <nd ref='-953' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169528' />
+  </way>
+  <way id='-5951' action='modify' visible='true'>
+    <nd ref='-949' />
+    <nd ref='-951' />
+    <nd ref='-473' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169527' />
+  </way>
+  <way id='-5949' action='modify' visible='true'>
+    <nd ref='-943' />
+    <nd ref='-945' />
+    <nd ref='-947' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrstubben' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169525' />
+  </way>
+  <way id='-5947' action='modify' visible='true'>
+    <nd ref='-455' />
+    <nd ref='-939' />
+    <nd ref='-941' />
+    <nd ref='-943' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrstubben' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169524' />
+  </way>
+  <way id='-5941' action='modify' visible='true'>
+    <nd ref='-121' />
+    <nd ref='-925' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrsletta' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169516' />
+  </way>
+  <way id='-5939' action='modify' visible='true'>
+    <nd ref='-921' />
+    <nd ref='-923' />
+    <nd ref='-121' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Myrsletta' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145169515' />
+  </way>
+  <way id='-5935' action='modify' visible='true'>
+    <nd ref='-915' />
+    <nd ref='-917' />
+    <nd ref='-31' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Monsrudveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808025' />
+  </way>
+  <way id='-5933' visible='true' version='1'>
+    <nd ref='-899' />
+    <nd ref='-913' />
+    <nd ref='-915' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Monsrudveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808024' />
+  </way>
+  <way id='-5925' action='modify' visible='true'>
+    <nd ref='-899' />
+    <nd ref='-901' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Monsrudveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169510' />
+  </way>
+  <way id='-5923' action='modify' visible='true'>
+    <nd ref='-895' />
+    <nd ref='-897' />
+    <nd ref='-899' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Monsrudveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808023' />
+  </way>
+  <way id='-5921' action='modify' visible='true'>
+    <nd ref='-5485' />
+    <nd ref='-893' />
+    <nd ref='-895' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Monsrudveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808022' />
+  </way>
+  <way id='-5919' action='modify' visible='true'>
+    <nd ref='-381' />
+    <nd ref='-891' />
+    <nd ref='-5485' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Monsrudveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169508' />
+  </way>
+  <way id='-5917' action='modify' visible='true'>
+    <nd ref='-885' />
+    <nd ref='-887' />
+    <nd ref='-889' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808021' />
+  </way>
+  <way id='-5915' visible='true' version='1'>
+    <nd ref='-849' />
+    <nd ref='-885' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808020' />
+  </way>
+  <way id='-5913' action='modify' visible='true'>
+    <nd ref='-871' />
+    <nd ref='-881' />
+    <nd ref='-883' />
+    <nd ref='-879' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169502' />
+  </way>
+  <way id='-5911' action='modify' visible='true'>
+    <nd ref='-875' />
+    <nd ref='-877' />
+    <nd ref='-879' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484377' />
+  </way>
+  <way id='-5909' visible='true' version='1'>
+    <nd ref='-871' />
+    <nd ref='-873' />
+    <nd ref='-875' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484376' />
+  </way>
+  <way id='-5907' action='modify' visible='true'>
+    <nd ref='-841' />
+    <nd ref='-869' />
+    <nd ref='-871' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169500' />
+  </way>
+  <way id='-5905' action='modify' visible='true'>
+    <nd ref='-863' />
+    <nd ref='-865' />
+    <nd ref='-867' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484375' />
+  </way>
+  <way id='-5903' visible='true' version='1'>
+    <nd ref='-859' />
+    <nd ref='-861' />
+    <nd ref='-863' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484374' />
+  </way>
+  <way id='-5901' visible='true' version='1'>
+    <nd ref='-857' />
+    <nd ref='-859' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484373' />
+  </way>
+  <way id='-5899' action='modify' visible='true'>
+    <nd ref='-853' />
+    <nd ref='-855' />
+    <nd ref='-857' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484372' />
+  </way>
+  <way id='-5897' action='modify' visible='true'>
+    <nd ref='-849' />
+    <nd ref='-851' />
+    <nd ref='-853' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484371' />
+  </way>
+  <way id='-5895' action='modify' visible='true'>
+    <nd ref='-845' />
+    <nd ref='-847' />
+    <nd ref='-849' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808019' />
+  </way>
+  <way id='-5893' action='modify' visible='true'>
+    <nd ref='-841' />
+    <nd ref='-843' />
+    <nd ref='-845' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808018' />
+  </way>
+  <way id='-5891' action='modify' visible='true'>
+    <nd ref='-837' />
+    <nd ref='-839' />
+    <nd ref='-841' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169496' />
+  </way>
+  <way id='-5889' action='modify' visible='true'>
+    <nd ref='-833' />
+    <nd ref='-835' />
+    <nd ref='-837' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484370' />
+  </way>
+  <way id='-5887' action='modify' visible='true'>
+    <nd ref='-829' />
+    <nd ref='-831' />
+    <nd ref='-833' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484369' />
+  </way>
+  <way id='-5885' action='modify' visible='true'>
+    <nd ref='-825' />
+    <nd ref='-827' />
+    <nd ref='-829' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484368' />
+  </way>
+  <way id='-5883' action='modify' visible='true'>
+    <nd ref='-51' />
+    <nd ref='-823' />
+    <nd ref='-825' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484367' />
+  </way>
+  <way id='-5881' action='modify' visible='true'>
+    <nd ref='-819' />
+    <nd ref='-821' />
+    <nd ref='-51' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484366' />
+  </way>
+  <way id='-5879' action='modify' visible='true'>
+    <nd ref='-815' />
+    <nd ref='-817' />
+    <nd ref='-819' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808017' />
+  </way>
+  <way id='-5877' visible='true' version='1'>
+    <nd ref='-299' />
+    <nd ref='-815' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Markveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808016' />
+  </way>
+  <way id='-5871' action='modify' visible='true'>
+    <nd ref='-801' />
+    <nd ref='-803' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lysneveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754622' />
+  </way>
+  <way id='-5869' visible='true' version='1'>
+    <nd ref='-797' />
+    <nd ref='-799' />
+    <nd ref='-801' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lysneveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754621' />
+  </way>
+  <way id='-5857' action='modify' visible='true'>
+    <nd ref='-755' />
+    <nd ref='-771' />
+    <nd ref='-773' />
+    <nd ref='-775' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lilleteigen' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169469' />
+  </way>
+  <way id='-5855' action='modify' visible='true'>
+    <nd ref='-759' />
+    <nd ref='-761' />
+    <nd ref='-763' />
+    <nd ref='-765' />
+    <nd ref='-767' />
+    <nd ref='-769' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lilleteigen' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808015' />
+  </way>
+  <way id='-5853' action='modify' visible='true'>
+    <nd ref='-755' />
+    <nd ref='-757' />
+    <nd ref='-759' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lilleteigen' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808014' />
+  </way>
+  <way id='-5851' action='modify' visible='true'>
+    <nd ref='-751' />
+    <nd ref='-753' />
+    <nd ref='-755' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lilleteigen' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169466' />
+  </way>
+  <way id='-5849' action='modify' visible='true'>
+    <nd ref='-295' />
+    <nd ref='-749' />
+    <nd ref='-751' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Lilleteigen' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169465' />
+  </way>
+  <way id='-5743' action='modify' visible='true'>
+    <nd ref='-507' />
+    <nd ref='-513' />
+    <nd ref='-515' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Grønlundveien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='145169297' />
+  </way>
+  <way id='-5741' action='modify' visible='true'>
+    <nd ref='-507' />
+    <nd ref='-509' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Grønlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169296' />
+  </way>
+  <way id='-5739' action='modify' visible='true'>
+    <nd ref='-503' />
+    <nd ref='-505' />
+    <nd ref='-507' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Grønlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169295' />
+  </way>
+  <way id='-5737' visible='true' version='1'>
+    <nd ref='-499' />
+    <nd ref='-501' />
+    <nd ref='-503' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Grønlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754618' />
+  </way>
+  <way id='-5735' action='modify' visible='true'>
+    <nd ref='-495' />
+    <nd ref='-497' />
+    <nd ref='-499' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Grønlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754617' />
+  </way>
+  <way id='-5733' visible='true' version='1'>
+    <nd ref='-493' />
+    <nd ref='-495' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Grønlundveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589754616' />
+  </way>
+  <way id='-5731' visible='true' version='1'>
+    <nd ref='-491' />
+    <nd ref='-287' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Granliveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808013' />
+  </way>
+  <way id='-5729' action='modify' visible='true'>
+    <nd ref='-487' />
+    <nd ref='-489' />
+    <nd ref='-491' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Granliveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808012' />
+  </way>
+  <way id='-5727' action='modify' visible='true'>
+    <nd ref='-483' />
+    <nd ref='-485' />
+    <nd ref='-487' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Granliveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169292' />
+  </way>
+  <way id='-5725' action='modify' visible='true'>
+    <nd ref='-479' />
+    <nd ref='-481' />
+    <nd ref='-483' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Granliveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169291' />
+  </way>
+  <way id='-5723' action='modify' visible='true'>
+    <nd ref='-475' />
+    <nd ref='-477' />
+    <nd ref='-479' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Granliveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169290' />
+  </way>
+  <way id='-5719' action='modify' visible='true'>
+    <nd ref='-459' />
+    <nd ref='-461' />
+    <nd ref='-463' />
+    <nd ref='-279' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gauselveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169265' />
+  </way>
+  <way id='-5717' action='modify' visible='true'>
+    <nd ref='-455' />
+    <nd ref='-457' />
+    <nd ref='-459' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gauselveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169264' />
+  </way>
+  <way id='-5715' action='modify' visible='true'>
+    <nd ref='-451' />
+    <nd ref='-453' />
+    <nd ref='-455' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gauselveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169263' />
+  </way>
+  <way id='-5713' action='modify' visible='true'>
+    <nd ref='-447' />
+    <nd ref='-449' />
+    <nd ref='-451' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gauselveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169262' />
+  </way>
+  <way id='-5709' action='modify' visible='true'>
+    <nd ref='-435' />
+    <nd ref='-437' />
+    <nd ref='-439' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169252' />
+  </way>
+  <way id='-5707' action='modify' visible='true'>
+    <nd ref='-431' />
+    <nd ref='-433' />
+    <nd ref='-435' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169251' />
+  </way>
+  <way id='-5705' action='modify' visible='true'>
+    <nd ref='-427' />
+    <nd ref='-429' />
+    <nd ref='-431' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169250' />
+  </way>
+  <way id='-5703' action='modify' visible='true'>
+    <nd ref='-279' />
+    <nd ref='-425' />
+    <nd ref='-427' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169249' />
+  </way>
+  <way id='-5701' visible='true' version='1'>
+    <nd ref='-423' />
+    <nd ref='-279' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808011' />
+  </way>
+  <way id='-5699' action='modify' visible='true'>
+    <nd ref='-419' />
+    <nd ref='-421' />
+    <nd ref='-423' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808010' />
+  </way>
+  <way id='-5697' action='modify' visible='true'>
+    <nd ref='-415' />
+    <nd ref='-417' />
+    <nd ref='-419' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169247' />
+  </way>
+  <way id='-5695' action='modify' visible='true'>
+    <nd ref='-411' />
+    <nd ref='-413' />
+    <nd ref='-415' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169246' />
+  </way>
+  <way id='-5693' visible='true' version='1'>
+    <nd ref='-5491' />
+    <nd ref='-409' />
+    <nd ref='-411' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169245' />
+  </way>
+  <way id='-5691' action='modify' visible='true'>
+    <nd ref='-405' />
+    <nd ref='-407' />
+    <nd ref='-5491' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169244' />
+  </way>
+  <way id='-5689' action='modify' visible='true'>
+    <nd ref='-401' />
+    <nd ref='-403' />
+    <nd ref='-405' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169243' />
+  </way>
+  <way id='-5687' action='modify' visible='true'>
+    <nd ref='-397' />
+    <nd ref='-399' />
+    <nd ref='-401' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169242' />
+  </way>
+  <way id='-5685' action='modify' visible='true'>
+    <nd ref='-393' />
+    <nd ref='-395' />
+    <nd ref='-397' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169241' />
+  </way>
+  <way id='-5683' action='modify' visible='true'>
+    <nd ref='-389' />
+    <nd ref='-391' />
+    <nd ref='-393' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808009' />
+  </way>
+  <way id='-5681' visible='true' version='1'>
+    <nd ref='-385' />
+    <nd ref='-387' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808007' />
+  </way>
+  <way id='-5679' visible='true' version='1'>
+    <nd ref='-381' />
+    <nd ref='-383' />
+    <nd ref='-385' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808006' />
+  </way>
+  <way id='-5677' action='modify' visible='true'>
+    <nd ref='-375' />
+    <nd ref='-377' />
+    <nd ref='-379' />
+    <nd ref='-381' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Gamleveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808005' />
+  </way>
+  <way id='-5657' visible='true' version='1'>
+    <nd ref='-339' />
+    <nd ref='-5477' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169183' />
+  </way>
+  <way id='-5655' action='modify' visible='true'>
+    <nd ref='-335' />
+    <nd ref='-337' />
+    <nd ref='-339' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169182' />
+  </way>
+  <way id='-5653' action='modify' visible='true'>
+    <nd ref='-317' />
+    <nd ref='-331' />
+    <nd ref='-333' />
+    <nd ref='-335' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169181' />
+  </way>
+  <way id='-5651' action='modify' visible='true'>
+    <nd ref='-325' />
+    <nd ref='-327' />
+    <nd ref='-329' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484354' />
+  </way>
+  <way id='-5649' action='modify' visible='true'>
+    <nd ref='-321' />
+    <nd ref='-323' />
+    <nd ref='-325' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484353' />
+  </way>
+  <way id='-5647' visible='true' version='1'>
+    <nd ref='-317' />
+    <nd ref='-319' />
+    <nd ref='-321' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484352' />
+  </way>
+  <way id='-5645' action='modify' visible='true'>
+    <nd ref='-313' />
+    <nd ref='-315' />
+    <nd ref='-317' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169179' />
+  </way>
+  <way id='-5643' visible='true' version='1'>
+    <nd ref='-311' />
+    <nd ref='-313' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484351' />
+  </way>
+  <way id='-5641' action='modify' visible='true'>
+    <nd ref='-307' />
+    <nd ref='-309' />
+    <nd ref='-311' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484350' />
+  </way>
+  <way id='-5639' visible='true' version='1'>
+    <nd ref='-303' />
+    <nd ref='-305' />
+    <nd ref='-307' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484349' />
+  </way>
+  <way id='-5637' action='modify' visible='true'>
+    <nd ref='-299' />
+    <nd ref='-301' />
+    <nd ref='-303' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169177' />
+  </way>
+  <way id='-5635' action='modify' visible='true'>
+    <nd ref='-295' />
+    <nd ref='-297' />
+    <nd ref='-299' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169176' />
+  </way>
+  <way id='-5633' visible='true' version='1'>
+    <nd ref='-291' />
+    <nd ref='-293' />
+    <nd ref='-295' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808003' />
+  </way>
+  <way id='-5631' action='modify' visible='true'>
+    <nd ref='-287' />
+    <nd ref='-289' />
+    <nd ref='-291' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='589808002' />
+  </way>
+  <way id='-5629' action='modify' visible='true'>
+    <nd ref='-283' />
+    <nd ref='-285' />
+    <nd ref='-287' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169174' />
+  </way>
+  <way id='-5627' action='modify' visible='true'>
+    <nd ref='-279' />
+    <nd ref='-281' />
+    <nd ref='-283' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145169173' />
+  </way>
+  <way id='-5625' action='modify' visible='true'>
+    <nd ref='-275' />
+    <nd ref='-277' />
+    <nd ref='-237' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169172' />
+  </way>
+  <way id='-5623' action='modify' visible='true'>
+    <nd ref='-265' />
+    <nd ref='-267' />
+    <nd ref='-269' />
+    <nd ref='-271' />
+    <nd ref='-273' />
+    <nd ref='-275' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484348' />
+  </way>
+  <way id='-5621' action='modify' visible='true'>
+    <nd ref='-259' />
+    <nd ref='-261' />
+    <nd ref='-263' />
+    <nd ref='-265' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484347' />
+  </way>
+  <way id='-5619' action='modify' visible='true'>
+    <nd ref='-253' />
+    <nd ref='-255' />
+    <nd ref='-257' />
+    <nd ref='-259' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484346' />
+  </way>
+  <way id='-5617' action='modify' visible='true'>
+    <nd ref='-245' />
+    <nd ref='-247' />
+    <nd ref='-249' />
+    <nd ref='-251' />
+    <nd ref='-253' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484345' />
+  </way>
+  <way id='-5615' visible='true' version='1'>
+    <nd ref='-241' />
+    <nd ref='-243' />
+    <nd ref='-245' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484344' />
+  </way>
+  <way id='-5613' action='modify' visible='true'>
+    <nd ref='-237' />
+    <nd ref='-239' />
+    <nd ref='-241' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484343' />
+  </way>
+  <way id='-5611' action='modify' visible='true'>
+    <nd ref='-5477' />
+    <nd ref='-235' />
+    <nd ref='-237' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Finstadsvingen' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='145169169' />
+  </way>
+  <way id='-5555' action='modify' visible='true'>
+    <nd ref='-117' />
+    <nd ref='-119' />
+    <nd ref='-121' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='323095931' />
+  </way>
+  <way id='-5553' action='modify' visible='true'>
+    <nd ref='-113' />
+    <nd ref='-115' />
+    <nd ref='-117' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='323095930' />
+  </way>
+  <way id='-5551' visible='true' version='1'>
+    <nd ref='-111' />
+    <nd ref='-113' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='320484339' />
+  </way>
+  <way id='-5549' visible='true' version='1'>
+    <nd ref='-107' />
+    <nd ref='-109' />
+    <nd ref='-111' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145168926' />
+  </way>
+  <way id='-5547' action='modify' visible='true'>
+    <nd ref='-103' />
+    <nd ref='-105' />
+    <nd ref='-107' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145168925' />
+  </way>
+  <way id='-5545' visible='true' version='1'>
+    <nd ref='-101' />
+    <nd ref='-103' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='1992-08-28' />
+    <tag k='nvdb:id' v='323095929' />
+  </way>
+  <way id='-5543' action='modify' visible='true'>
+    <nd ref='-97' />
+    <nd ref='-99' />
+    <nd ref='-101' />
+    <tag k='foot' v='designated' />
+    <tag k='highway' v='cycleway' />
+    <tag k='name' v='Bekkestien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='323095928' />
+  </way>
+  <way id='-5541' action='modify' visible='true'>
+    <nd ref='-91' />
+    <nd ref='-93' />
+    <nd ref='-95' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484338' />
+  </way>
+  <way id='-5539' visible='true' version='1'>
+    <nd ref='-87' />
+    <nd ref='-89' />
+    <nd ref='-91' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484337' />
+  </way>
+  <way id='-5537' visible='true' version='1'>
+    <nd ref='-85' />
+    <nd ref='-87' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484336' />
+  </way>
+  <way id='-5535' action='modify' visible='true'>
+    <nd ref='-81' />
+    <nd ref='-83' />
+    <nd ref='-85' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484335' />
+  </way>
+  <way id='-5533' visible='true' version='1'>
+    <nd ref='-79' />
+    <nd ref='-81' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484334' />
+  </way>
+  <way id='-5531' action='modify' visible='true'>
+    <nd ref='-75' />
+    <nd ref='-77' />
+    <nd ref='-79' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484333' />
+  </way>
+  <way id='-5529' action='modify' visible='true'>
+    <nd ref='-71' />
+    <nd ref='-73' />
+    <nd ref='-75' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484332' />
+  </way>
+  <way id='-5527' action='modify' visible='true'>
+    <nd ref='-67' />
+    <nd ref='-69' />
+    <nd ref='-71' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484331' />
+  </way>
+  <way id='-5525' action='modify' visible='true'>
+    <nd ref='-63' />
+    <nd ref='-65' />
+    <nd ref='-67' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484330' />
+  </way>
+  <way id='-5523' visible='true' version='1'>
+    <nd ref='-59' />
+    <nd ref='-61' />
+    <nd ref='-63' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='320484329' />
+  </way>
+  <way id='-5521' action='modify' visible='true'>
+    <nd ref='-55' />
+    <nd ref='-57' />
+    <nd ref='-59' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808001' />
+  </way>
+  <way id='-5519' visible='true' version='1'>
+    <nd ref='-51' />
+    <nd ref='-53' />
+    <nd ref='-55' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Atriumveien' />
+    <tag k='nvdb:date' v='2008-04-19' />
+    <tag k='nvdb:id' v='589808000' />
+  </way>
+  <way id='-5513' action='modify' visible='true'>
+    <nd ref='-31' />
+    <nd ref='-33' />
+    <tag k='highway' v='road' />
+    <tag k='maxspeed' v='30' />
+    <tag k='name' v='Artilleriveien' />
+    <tag k='nvdb:date' v='2014-04-26' />
+    <tag k='nvdb:id' v='145168894' />
+  </way>
+</osm>
