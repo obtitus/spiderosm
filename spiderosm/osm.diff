@@ -1,0 +1,26 @@
+diff --git a/spiderosm/osm.py b/spiderosm/osm.py
+index e725d6d..31fafa3 100644
+--- a/spiderosm/osm.py
++++ b/spiderosm/osm.py
+@@ -36,10 +36,6 @@ class Node(object):
+         self.way_ids = {} # keys are way_ids of ways referencing this node.  values are ref counts.
+ 
+ class OSMData(object):
+-    ways = {}
+-    nodes = {}
+-    #relations = {} CURRENTLY NOT PARSING RELATIONS.
+-
+     def _parse_node(self, osmId, coords, tags=None):
+         if self.proj: coords = self.proj.project_point(coords)
+         if self.clip_rect and not geo.point_in_rect_q(coords,self.clip_rect): return
+@@ -243,6 +239,10 @@ class OSMData(object):
+ 
+     # initialize from OSM input file, if given, else via overpass API
+     def __init__(self, file_name=None, clip_rect=None, target_proj=None, srs=None,xml_format=False):
++        self.ways = {}
++        self.nodes = {}
++        #self.relations = {} CURRENTLY NOT PARSING RELATIONS.
++        
+         # if no file_name given we need to know what area to get via overpass 
+         if not(file_name or clip_rect):
+             print 'not enough inputarguments given'
